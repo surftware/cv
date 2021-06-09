@@ -15,10 +15,6 @@
     <title>Currículum Vitae | Armando Arciniega</title>
 
     <!-- favicon -->
-    <link rel="shortcut icon" href="img/logos/favicon.png" />
-    <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="img/logos/apple-touch-icon-72x72.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="img/logos/apple-touch-icon-114x114.png" />
 
     <!-- plugins -->
     <link rel="stylesheet" href="css/plugins.css" />
@@ -28,6 +24,7 @@
 
     <!-- core style css -->
     <link href="css/styles.css" rel="stylesheet" id="colors" />
+    <link href="css/custom.css" rel="stylesheet" id="" />
 
 </head>
 
@@ -43,30 +40,24 @@
 
     <!-- start main-wrapper section -->
     <div class="main-wrapper">
-
-        <!-- start shape area -->
-        <div class="header-shape xs-display-none">
-            <img src="img/banner/header-bg2.png" class="img-fluid width-100" alt="">
-        </div>
-        <!-- end shape area -->
-
         <!-- start service section -->
         <section class="service-section">
             <div class="container">
-                <div class="section-heading2">
-                    <span class="alt-font">Ingeniería Eléctrica Electrónica</span>
-                    <h2>Armando Arciniega Solano</h2>
-                </div>
-
                 <div class="row">
-
                     <div class="col-lg-8 col-md-8 sm-text-center sm-margin-30px-bottom">
-                        <section>
-                            <div class="container">
-                                <div class="text-center">
-                                    <h3>Perfil</h3>
-                                </div>
-                            </div>
+                        <div class="section-heading2 text-center mt-4">
+                            <span class="alt-font">Ingeniería Eléctrica Electrónica</span>
+                            <h2>Armando Arciniega Solano</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4"><img src="img/foto.jpg" alt=""
+                            class="img-effect imgProfile d-block mx-auto" />
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="col-lg-8 col-md-8 sm-text-center sm-margin-30px-bottom">
                             <div class="container-fluid no-padding sm-padding-15px-lr">
                                 <div class="horizontaltab tab-style">
                                     <ul class="resp-tabs-list hor_1">
@@ -88,31 +79,49 @@
                                     </ul>
                                     <div class="resp-tabs-container hor_1">
                                         <div>
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-lg-5 sm-margin-20px-bottom sm-text-center">
-                                                        <img src="img/content/tab-content-01.png" alt=""
-                                                            class="img-effect" />
-                                                    </div>
-                                                    <div class="col-lg-5 offset-lg-1">
+                                            <div class="pricing-content">
 
-                                                        <h5>Integration of design</h5>
-                                                        <p>Duis Integration aute irure design in reprehenderit in
-                                                            voluptate velit esse
-                                                            cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                                                            occaecat cupidatat
-                                                            non design proident.</p>
+                                                <!-- start single item -->
+                                                <div class="col-lg-10 offset-lg-1 col-md-10 offset-md-1 justify-content-center sm-margin-30px-bottom wow fadeInRight"
+                                                    data-wow-delay=".2s">
+                                                    <div class="single-plan text-center">
+                                                        <div class="head-plan">
+                                                            <h4 class="font-size22 sm-font-size20 xs-font-size18">
+                                                                Profile</h4>
+                                                        </div>
+                                                        <div class="body-plan">
+                                                            <div class="price-plan">
+                                                                <!-- <h3><sup>$</sup>20</h3> -->
+                                                                <span>Per Month</span>
+                                                            </div>
+                                                            <div class="feat-plan">
+                                                                <p class="padding-25px-lr width-95 center-col">
+                                                                    Pasante de  Ingeniería Eléctrica y Electrónica en
+                                                                    la UNAM.
+                                                                    Con amplia experiencia en servicio y soporte técnico
+                                                                    a equipo de cómputo, redes e instalaciones
+                                                                    eléctricas.
+                                                                    Desarrollo de Bases de Datos
+                                                                    Páginas web
+                                                                    Redes de computadoras
 
-                                                        <ul class="list-style no-margin-bottom">
-                                                            <li>Exclusive design</li>
-                                                            <li>Life time supports</li>
-                                                            <li>Solve your problem with us</li>
-                                                            <li>We Provide Awesome Services</li>
-                                                            <li>Your business deserves best software</li>
-                                                        </ul>
+                                                                    Cuento con un Diplomado en Servidores Linux
 
+                                                                    Y los cursos CCNA CISCO
+
+                                                                    Mi principal filosofía</p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="footer-plan">
+                                                            <a href="javascript:void(0)" class="butn">
+                                                                <span>Buy Now</span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
+                                                <!-- end single item -->
+
+
                                             </div>
                                         </div>
                                         <div>
@@ -152,9 +161,11 @@
                                                     </div>
                                                     <div class="col-lg-5 offset-lg-1">
                                                         <h5>Now ready for design</h5>
-                                                        <p>Ready site integration aute irure design in reprehenderit in
+                                                        <p>Ready site integration aute irure design in reprehenderit
+                                                            in
                                                             voluptate velit
-                                                            esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                            esse cillum dolore eu fugiat nulla pariatur. Excepteur
+                                                            sint
                                                             occaecat
                                                             cupidatat design proident.</p>
 
@@ -207,9 +218,11 @@
                                                     </div>
                                                     <div class="col-lg-5 offset-lg-1">
                                                         <h5>You have a ready site</h5>
-                                                        <p>Ready site integration aute irure design in reprehenderit in
+                                                        <p>Ready site integration aute irure design in reprehenderit
+                                                            in
                                                             voluptate velit
-                                                            esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                            esse cillum dolore eu fugiat nulla pariatur. Excepteur
+                                                            sint
                                                             occaecat
                                                             cupidatat design proident.</p>
 
@@ -228,46 +241,56 @@
                                     </div>
                                 </div>
                             </div>
-                        </section>
-                        <img src="img/content/content-05.png" alt="" class="img-effect" />
-                    </div>
-
-                    <div class="col-lg-4 col-md-4">
-
-                        <div class="padding-50px-left md-padding-10px-left sm-no-padding">
-                            <h5 class="sm-margin-lr-auto sm-text-center xs-width-100 text-center">Formación Académica
-                            </h5>
-
-
-                            <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
-                                <h4 class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
-                                    <span class="service-icon"><i class="fas fa-university"></i></span>UNAM</h4>
-                                <p>Ingeniería Eléctrica Electrónica con especialidad en Sistemas de Control(Pasante)</p>
-                            </div>
-                            <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
-                                <h4 class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
-                                    <span class="service-icon"><i class="fas fa-school"></i></span>Inst. Fundación
-                                    Azteca </h4>
-                                <p>Bachillerato Tecnológico en Computación</p>
-                            </div>
-
 
                         </div>
 
-                        <div class="padding-50px-left md-padding-10px-left sm-no-padding">
-                            <h5 class="sm-margin-lr-auto sm-text-center xs-width-100 text-center">Cursos</h5>
+                        <div class="col-lg-4 col-md-4">
+
+                            <div class="padding-50px-left md-padding-10px-left sm-no-padding">
+
+                                <h5 class="sm-margin-lr-auto sm-text-center xs-width-100 text-center section-heading2">
+                                    Formación
+                                    Académica
+                                </h5>
 
 
-                            <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
-                                <h4 class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
-                                    <span class="service-icon"><i class="fas fa-university"></i></span>UNAM</h4>
-                                <p>Ingeniería Eléctrica Electrónica con especialidad en Sistemas de Control(Pasante)</p>
+                                <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
+                                    <h4
+                                        class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
+                                        <span class="service-icon"><i class="fas fa-university"></i></span>UNAM</h4>
+                                    <p>Ingeniería Eléctrica Electrónica con especialidad en Sistemas de Control(Pasante)
+                                    </p>
+                                </div>
+                                <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
+                                    <h4
+                                        class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
+                                        <span class="service-icon"><i class="fas fa-school"></i></span>Inst. Fundación
+                                        Azteca </h4>
+                                    <p>Bachillerato Tecnológico en Computación</p>
+                                </div>
+
+
                             </div>
-                            <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
-                                <h4 class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
-                                    <span class="service-icon"><i class="fas fa-school"></i></span>Inst. Fundación
-                                    Azteca </h4>
-                                <p>Bachillerato Tecnológico en Computación</p>
+
+                            <div class="padding-50px-left md-padding-10px-left sm-no-padding">
+                                <h5 class="sm-margin-lr-auto sm-text-center xs-width-100 text-center">Cursos</h5>
+
+
+                                <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
+                                    <h4
+                                        class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
+                                        <span class="service-icon"><i class="fas fa-university"></i></span>UNAM</h4>
+                                    <p>Ingeniería Eléctrica Electrónica con especialidad en Sistemas de Control(Pasante)
+                                    </p>
+                                </div>
+                                <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
+                                    <h4
+                                        class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
+                                        <span class="service-icon"><i class="fas fa-school"></i></span>Inst. Fundación
+                                        Azteca </h4>
+                                    <p>Bachillerato Tecnológico en Computación</p>
+                                </div>
+
                             </div>
 
                         </div>
@@ -275,10 +298,51 @@
                     </div>
 
                 </div>
-
-            </div>
         </section>
         <!-- end service section -->
+        <!-- start footer section -->
+        <footer>
+            <div class="container">
+                <div class="row margin-30px-bottom padding-30px-bottom border-bottom border-color-light-white">
+                    <div class="col-lg-4 col-md-12 sm-margin-30px-bottom text-center">
+                        <h3 class="footer-title-style text-white">Phone</h3>
+                        <p class="font-size16 sm-font-size14">(+44) 123 456 789</p>
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 sm-margin-30px-bottom text-center">
+                        <h3 class="footer-title-style text-white">Email</h3>
+                        <p class="font-size16 sm-font-size14">addyour@emailhere</p>
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 text-center">
+                        <h3 class="footer-title-style text-white">Location</h3>
+                        <p class="font-size16 sm-font-size14">74 Guild Street 542B, Town MT.</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <ul class="social-icon-style2 no-margin">
+                            <li>
+                                <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+        </footer>
+        <!-- end footer section -->
 
         <!-- start innovate business section -->
         <section class="bg-theme-light">
