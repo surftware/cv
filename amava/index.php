@@ -50,8 +50,8 @@
                             <h2>Armando Arciniega Solano</h2>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4"><img src="img/foto.jpg" alt=""
-                            class="img-effect imgProfile d-block mx-auto" />
+                    <div class="col-lg-4 col-md-4">
+                        <img src="img/foto.jpg" alt="" class="img-effect imgProfile d-block mx-auto mt-5" />
                     </div>
 
 
@@ -91,11 +91,12 @@
                                                         </div>
                                                         <div class="body-plan">
                                                             <div class="price-plan">
-                                                                <!-- <h3><sup>$</sup>20</h3> -->
+                                                                <!-- <h3><sup>$</sup>20</h3> 
                                                                 <span>Per Month</span>
+                                                                -->
                                                             </div>
                                                             <div class="feat-plan">
-                                                                <p class="padding-25px-lr width-95 center-col">
+                                                                <p class="padding-25px-lr width-95 center-col text-justify">
                                                                     Pasante de  Ingeniería Eléctrica y Electrónica en
                                                                     la UNAM.
                                                                     Con amplia experiencia en servicio y soporte técnico
@@ -109,7 +110,11 @@
 
                                                                     Y los cursos CCNA CISCO
 
-                                                                    Mi principal filosofía</p>
+                                                                    Mi principal filosofía es el aprendizaje continuo
+                                                                    que permita una mejor eficiencia en el desarrollo de
+                                                                    mi labor.
+                                                                
+                                                                </p>
                                                             </div>
                                                         </div>
                                                         <div class="footer-plan">
