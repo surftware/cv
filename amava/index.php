@@ -59,7 +59,56 @@
 
                         <div class="col-lg-8 col-md-8 sm-text-center sm-margin-30px-bottom">
                             <div class="container-fluid no-padding sm-padding-15px-lr">
+                                <div class="pricing-content">
+
+                                    <!-- start single item -->
+                                    <div class="col-lg-10 offset-lg-1 col-md-10 offset-md-1 justify-content-center sm-margin-30px-bottom wow fadeInRight"
+                                        data-wow-delay=".2s">
+                                        <div class="single-plan text-center">
+                                            <div class="head-plan">
+                                                <h4 class="font-size22 sm-font-size20 xs-font-size18">
+                                                    Perfil</h4>
+                                            </div>
+                                            <div class="body-plan">
+                                                <div class="price-plan">
+                                                    <!-- <h3><sup>$</sup>20</h3> 
+                                                                <span>Per Month</span>
+                                                                -->
+                                                </div>
+                                                <div class="feat-plan">
+                                                    <p class="padding-25px-lr width-95 center-col text-justify">
+                                                        Pasante de Ingeniería Eléctrica y Electrónica en
+                                                        la UNAM.
+                                                        Posee experiencia en servicio y soporte técnico
+                                                        a equipo de cómputo, redes e instalaciones
+                                                        eléctricas.
+
+                                                        Redes de computadoras
+
+                                                        Cuento con un Diplomado en Servidores Linux
+
+                                                        Y los cursos CCNA CISCO
+
+                                                        Su principal filosofía es el aprendizaje continuo
+                                                        que permita una mejor eficiencia en el desarrollo de
+                                                        mi labor.
+
+                                                    </p>
+                                                </div>
+                                            </div>
+                                           
+                                        </div>
+                                    </div>
+                                    <!-- end single item -->
+
+
+                                </div>
                                 <div class="horizontaltab tab-style">
+                                    <div class="footer-plan text-center mt-5 ">
+                                        <a href="javascript:void(0)" class="butn">
+                                            <span class="d-block mx-auto">Skills</span>
+                                        </a>
+                                    </div>
                                     <ul class="resp-tabs-list hor_1">
                                         <li><i class="fab fa-renren text-theme-color"></i><span
                                                 class="display-block sm-display-inline-block sm-vertical-align-top">Discover</span>
@@ -79,55 +128,7 @@
                                     </ul>
                                     <div class="resp-tabs-container hor_1">
                                         <div>
-                                            <div class="pricing-content">
-
-                                                <!-- start single item -->
-                                                <div class="col-lg-10 offset-lg-1 col-md-10 offset-md-1 justify-content-center sm-margin-30px-bottom wow fadeInRight"
-                                                    data-wow-delay=".2s">
-                                                    <div class="single-plan text-center">
-                                                        <div class="head-plan">
-                                                            <h4 class="font-size22 sm-font-size20 xs-font-size18">
-                                                                Profile</h4>
-                                                        </div>
-                                                        <div class="body-plan">
-                                                            <div class="price-plan">
-                                                                <!-- <h3><sup>$</sup>20</h3> 
-                                                                <span>Per Month</span>
-                                                                -->
-                                                            </div>
-                                                            <div class="feat-plan">
-                                                                <p class="padding-25px-lr width-95 center-col text-justify">
-                                                                    Pasante de  Ingeniería Eléctrica y Electrónica en
-                                                                    la UNAM.
-                                                                    Con amplia experiencia en servicio y soporte técnico
-                                                                    a equipo de cómputo, redes e instalaciones
-                                                                    eléctricas.
-                                                                    Desarrollo de Bases de Datos
-                                                                    Páginas web
-                                                                    Redes de computadoras
-
-                                                                    Cuento con un Diplomado en Servidores Linux
-
-                                                                    Y los cursos CCNA CISCO
-
-                                                                    Mi principal filosofía es el aprendizaje continuo
-                                                                    que permita una mejor eficiencia en el desarrollo de
-                                                                    mi labor.
-                                                                
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="footer-plan">
-                                                            <a href="javascript:void(0)" class="butn">
-                                                                <span>Buy Now</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- end single item -->
-
-
-                                            </div>
+                                            <!-- aqui estaba -->
                                         </div>
                                         <div>
                                             <div class="container">
@@ -251,13 +252,12 @@
 
                         <div class="col-lg-4 col-md-4">
 
+                            <h5 class="sm-margin-lr-auto sm-text-center xs-width-100 text-center section-heading2 pl-0">
+                                Formación
+                                Académica
+                            </h5>
+
                             <div class="padding-50px-left md-padding-10px-left sm-no-padding">
-
-                                <h5 class="sm-margin-lr-auto sm-text-center xs-width-100 text-center section-heading2">
-                                    Formación
-                                    Académica
-                                </h5>
-
 
                                 <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
                                     <h4
@@ -308,41 +308,24 @@
         <!-- start footer section -->
         <footer>
             <div class="container">
-                <div class="row margin-30px-bottom padding-30px-bottom border-bottom border-color-light-white">
-                    <div class="col-lg-4 col-md-12 sm-margin-30px-bottom text-center">
-                        <h3 class="footer-title-style text-white">Phone</h3>
-                        <p class="font-size16 sm-font-size14">(+44) 123 456 789</p>
+                <div class="row margin-30px-bottom border-bottom border-color-light-white">
+                    <div class="col-lg-4 col-md-4 sm-margin-30px-bottom text-center">
+                        <h3 class="footer-title-style text-white">Teléfono <i class="fas fa-phone"></i></h3>
+                        <p class="font-size16 sm-font-size14">55 1189 4621</p>
                     </div>
 
-                    <div class="col-lg-4 col-md-12 sm-margin-30px-bottom text-center">
-                        <h3 class="footer-title-style text-white">Email</h3>
-                        <p class="font-size16 sm-font-size14">addyour@emailhere</p>
+                    <div class="col-lg-4 col-md-4 sm-margin-30px-bottom text-center">
+                        <h3 class="footer-title-style text-white">E-mail <i class="fas fa-envelope"></i></h3>
+                        <p class="font-size16 sm-font-size14 mb-4">arciniegasolano@outlook.con</p>
                     </div>
 
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <h3 class="footer-title-style text-white">Location</h3>
-                        <p class="font-size16 sm-font-size14">74 Guild Street 542B, Town MT.</p>
+                    <div class="col-lg-4 col-md-4 text-center">
+                        <h3 class="footer-title-style text-white">Dirección <i class="fas fa-map-marker-alt"></i></h3>
+                        <p class="font-size16 sm-font-size14">Oriente 85 #3406; Colonia La Joya C.P.07890</p>
                     </div>
                 </div>
 
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <ul class="social-icon-style2 no-margin">
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+
 
             </div>
 
@@ -439,7 +422,7 @@
                         </h4>
                         <p class="text-white font-size16 xs-font-size14 margin-30px-bottom sm-margin-20px-bottom">We
                             always try to provide you our best business consulting service.</p>
-                        <a href="javascript:void(0)" class="butn white"><span>Buy Now</span></a>
+                        <a href="javascript:void(0)" class="butn white"><span>Skills</span></a>
                     </div>
 
                 </div>
@@ -996,49 +979,6 @@
         </section>
         <!-- end blog section -->
 
-        <!-- start footer section -->
-        <footer>
-            <div class="container">
-                <div class="row margin-30px-bottom padding-30px-bottom border-bottom border-color-light-white">
-                    <div class="col-lg-4 col-md-12 sm-margin-30px-bottom text-center">
-                        <h3 class="footer-title-style text-white">Phone</h3>
-                        <p class="font-size16 sm-font-size14">(+44) 123 456 789</p>
-                    </div>
-
-                    <div class="col-lg-4 col-md-12 sm-margin-30px-bottom text-center">
-                        <h3 class="footer-title-style text-white">Email</h3>
-                        <p class="font-size16 sm-font-size14">addyour@emailhere</p>
-                    </div>
-
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <h3 class="footer-title-style text-white">Location</h3>
-                        <p class="font-size16 sm-font-size14">74 Guild Street 542B, Town MT.</p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <ul class="social-icon-style2 no-margin">
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-
-        </footer>
-        <!-- end footer section -->
 
     </div>
     <!-- end main-wrapper section -->
