@@ -45,7 +45,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-md-8 sm-text-center sm-margin-30px-bottom">
-                        <div class="section-heading2 text-center mt-4">
+                        <div class="section-heading2 text-center mt-5 pt-5">
                             <span class="alt-font">Ingeniería Eléctrica Electrónica</span>
                             <h2>Armando Arciniega Solano</h2>
                         </div>
@@ -95,7 +95,7 @@
                                                     </p>
                                                 
 
-                                                    <p>Experiencia en servicio, instalación y mantenimiento de
+                                                    <p class="padding-25px-lr width-95 center-col text-justify">Experiencia en servicio, instalación y mantenimiento de
                                                         infraestructura de Networking,
                                                         Configuración de equipos, (Servidores, switching, access point).
                                                         Instalaciones eléctricas de baja tensión</p>
@@ -116,140 +116,22 @@
                                     </div>
                                     <ul class="resp-tabs-list hor_1">
                                         <li><i class="fab fa-renren text-theme-color"></i><span
-                                                class="display-block sm-display-inline-block sm-vertical-align-top">Discover</span>
+                                                class="display-block sm-display-inline-block sm-vertical-align-top">Profesional Polivalente </span>
                                         </li>
-                                        <li><i class="far fa-chart-bar text-theme-color"></i><span
-                                                class="display-block sm-display-inline-block sm-vertical-align-top sm-width-50">Planning</span>
+                                        <li><i class="fas fa-users-cog"></i><span
+                                                class="display-block sm-display-inline-block sm-vertical-align-top sm-width-50">Trabajo en Equipo</span>
                                         </li>
                                         <li><i class="fas fa-code text-theme-color"></i><span
-                                                class="display-block sm-display-inline-block sm-vertical-align-top">Design</span>
+                                                class="display-block sm-display-inline-block sm-vertical-align-top">Manejo del tiempo y organización</span>
                                         </li>
                                         <li><i class="fas fa-database text-theme-color"></i><span
-                                                class="display-block sm-display-inline-block sm-vertical-align-top sm-width-50">Development</span>
+                                                class="display-block sm-display-inline-block sm-vertical-align-top sm-width-50">Adaptabilidad</span>
                                         </li>
                                         <li><i class="fas fa-rocket text-theme-color"></i><span
-                                                class="display-block sm-display-inline-block sm-vertical-align-top">Launch</span>
+                                                class="display-block sm-display-inline-block sm-vertical-align-top">Comunicación asertiva</span>
                                         </li>
                                     </ul>
-                                    <div class="resp-tabs-container hor_1">
-                                        <div>
-                                            <!-- aqui estaba -->
-                                        </div>
-                                        <div>
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-lg-5 order-lg-1 order-2">
-                                                        <h5>Let’s build something great</h5>
-                                                        <p>Build integration aute irure design in reprehenderit in
-                                                            voluptate velit esse
-                                                            cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                                                            occaecat cupidatat
-                                                            design proident.</p>
-
-                                                        <ul class="list-style no-margin-bottom">
-                                                            <li>Life time supports</li>
-                                                            <li>Exclusive design</li>
-                                                            <li>Solve your problem with us</li>
-                                                            <li>We Provide Awesome Services</li>
-                                                            <li>Your business deserves best software</li>
-                                                        </ul>
-
-                                                    </div>
-                                                    <div
-                                                        class="col-lg-5 offset-lg-1 order-lg-2 order-1 sm-text-center sm-margin-20px-bottom">
-                                                        <img src="img/content/tab-content-05.png" alt=""
-                                                            class="img-effect" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-lg-5 sm-margin-20px-bottom sm-text-center">
-                                                        <img src="img/content/tab-content-04.png" alt=""
-                                                            class="img-effect" />
-                                                    </div>
-                                                    <div class="col-lg-5 offset-lg-1">
-                                                        <h5>Now ready for design</h5>
-                                                        <p>Ready site integration aute irure design in reprehenderit
-                                                            in
-                                                            voluptate velit
-                                                            esse cillum dolore eu fugiat nulla pariatur. Excepteur
-                                                            sint
-                                                            occaecat
-                                                            cupidatat design proident.</p>
-
-                                                        <ul class="list-style no-margin-bottom">
-                                                            <li>Creating Stunning design</li>
-                                                            <li>Solve your problem with us</li>
-                                                            <li>Grow your business</li>
-                                                            <li>We Provide Awesome Services</li>
-                                                            <li>Exclusive design</li>
-
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-lg-5 order-lg-1 order-2">
-                                                        <h5>Connect with development.</h5>
-                                                        <p>Build integration aute irure design in reprehenderit in
-                                                            voluptate velit esse
-                                                            cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                                                            occaecat cupidatat
-                                                            design proident.</p>
-
-                                                        <ul class="list-style no-margin-bottom">
-                                                            <li>Research & Devloping</li>
-                                                            <li>Fully customizable</li>
-                                                            <li>Solve your problem faster</li>
-                                                            <li>There are many variations</li>
-                                                            <li>Your business deserves best software</li>
-                                                        </ul>
-
-                                                    </div>
-                                                    <div
-                                                        class="col-lg-5 offset-lg-1 order-lg-2 order-1 sm-text-center sm-margin-20px-bottom">
-                                                        <img src="img/content/tab-content-02.png" alt=""
-                                                            class="img-effect" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-lg-5 sm-margin-20px-bottom sm-text-center">
-                                                        <img src="img/content/tab-content-03.png" alt=""
-                                                            class="img-effect" />
-                                                    </div>
-                                                    <div class="col-lg-5 offset-lg-1">
-                                                        <h5>You have a ready site</h5>
-                                                        <p>Ready site integration aute irure design in reprehenderit
-                                                            in
-                                                            voluptate velit
-                                                            esse cillum dolore eu fugiat nulla pariatur. Excepteur
-                                                            sint
-                                                            occaecat
-                                                            cupidatat design proident.</p>
-
-                                                        <ul class="list-style no-margin-bottom">
-                                                            <li>One click and site ready to use</li>
-                                                            <li>Launch Your Project</li>
-                                                            <li>Solve your problem with us</li>
-                                                            <li>We Provide Awesome Services</li>
-                                                            <li>Exclusive design</li>
-
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </div>
 
@@ -300,6 +182,13 @@
                                         <lo>Cursos de preparación para el examen de
                                             certificación CISCO Networking Academy
                                         </lo>
+                                    </ul>
+
+                                    <h4
+                                        class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
+                                        <span class="service-icon"><i class="fab fa-linux"></i></span> Diplomado Linux
+                                    </h4>
+                                    <ul>
                                     </ul>
                                 </div>
 
@@ -488,7 +377,8 @@
                         <li><i class="fas fa-rocket text-theme-color"></i><span
                                 class="display-block sm-display-inline-block sm-vertical-align-top">Launch</span></li>
                     </ul>
-                    <div class="resp-tabs-container hor_1">
+                    <!-- Esto podría ser desglose de cada skill -->
+                    <!-- <div class="resp-tabs-container hor_1">
                         <div>
                             <div class="container">
                                 <div class="row">
@@ -612,7 +502,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>--> 
                 </div>
             </div>
         </section>
