@@ -87,16 +87,21 @@
 
                                                         Cuento con un Diplomado en Servidores Linux
 
-                                                        Y los cursos CCNA CISCO
+                                                        y los cursos CCNA CISCO.
 
                                                         Su principal filosofía es el aprendizaje continuo
                                                         que permita una mejor eficiencia en el desarrollo de
-                                                        mi labor.
-
+                                                        su labor.
                                                     </p>
+                                                
+
+                                                    <p>Experiencia en servicio, instalación y mantenimiento de
+                                                        infraestructura de Networking,
+                                                        Configuración de equipos, (Servidores, switching, access point).
+                                                        Instalaciones eléctricas de baja tensión</p>
                                                 </div>
                                             </div>
-                                           
+
                                         </div>
                                     </div>
                                     <!-- end single item -->
@@ -284,16 +289,42 @@
                                 <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
                                     <h4
                                         class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
-                                        <span class="service-icon"><i class="fas fa-university"></i></span>UNAM</h4>
-                                    <p>Ingeniería Eléctrica Electrónica con especialidad en Sistemas de Control(Pasante)
-                                    </p>
+                                        <span class="service-icon"><i class="fas fa-certificate"></i></span>CISCO CCNA
+                                    </h4>
+                                    <ul>
+                                        <li>CCNA 1.Networking Basics</li>
+                                        <li>CCNA 2.Router and Routing Basics</li>
+                                        <li>CCNA 3.Switching Basics and Intermediate
+                                            Routing</li>
+                                        <li>CCNA 4.WAN Technologies</li>
+                                        <lo>Cursos de preparación para el examen de
+                                            certificación CISCO Networking Academy
+                                        </lo>
+                                    </ul>
                                 </div>
+
+                                <!-- 
                                 <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
                                     <h4
                                         class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
-                                        <span class="service-icon"><i class="fas fa-school"></i></span>Inst. Fundación
-                                        Azteca </h4>
+                                        <span class="service-icon"><i class="fas fa-school"></i></span> </h4>
                                     <p>Bachillerato Tecnológico en Computación</p>
+                                </div>
+                                -->
+
+                            </div>
+
+                            <div class="padding-50px-left md-padding-10px-left sm-no-padding">
+                                <h5 class="sm-margin-lr-auto sm-text-center xs-width-100 text-center">Idiomas</h5>
+
+
+                                <div class="margin-25px-bottom separator-dashed-line-horrizontal-full hover-icon">
+                                    <h4
+                                        class="font-size18 sm-font-size16 xs-font-size15 margin-10px-bottom text-dark-gray">
+                                        <span class="service-icon"><i class="fas fa-language"></i></i></span>Inglés
+                                        Técnico</h4>
+                                    <p>
+                                    </p>
                                 </div>
 
                             </div>
@@ -301,6 +332,8 @@
                         </div>
 
                     </div>
+
+
 
                 </div>
         </section>
@@ -585,157 +618,7 @@
         </section>
         <!-- end how it work section -->
 
-        <!-- start team section -->
-        <section class="team bg-theme-light">
-            <div class="container">
 
-                <div class="section-heading2">
-                    <span class="alt-font">Our Team</span>
-                    <h3>Our Expert Minds</h3>
-                </div>
-
-                <div class="row">
-
-                    <!-- start team member -->
-                    <div class="col-lg-3 col-md-6 col-xs-12 sm-margin-30px-bottom xs-margin-20px-bottom text-center">
-                        <div class="team-style">
-                            <div class="team-member-img padding-25px-all sm-padding-20px-all">
-                                <img src="img/team/team-1.jpg" alt="" />
-                                <div class="text-center margin-25px-tb sm-margin-20px-tb">
-                                    <div class="text-extra-dark-gray font-weight-600 font-size14 alt-font">Keir
-                                        Prestonly</div>
-                                    <div
-                                        class="separator-line-horrizontal-medium-light bg-theme margin-lr-auto margin-10px-tb">
-                                    </div>
-                                    <div class="font-size14 xs-font-size13 font-weight-600">Founder</div>
-                                </div>
-                                <ul class="social-links">
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-
-                            </div>
-                            <div class="bg-cover"></div>
-                        </div>
-                    </div>
-                    <!-- end team member -->
-
-                    <!-- start team member -->
-                    <div class="col-lg-3 col-md-6 col-xs-12 sm-margin-30px-bottom  xs-margin-20px-bottom text-center">
-                        <div class="team-style">
-                            <div class="team-member-img padding-25px-all sm-padding-20px-all">
-                                <img src="img/team/team-2.jpg" alt="" />
-                                <div class="text-center margin-25px-tb sm-margin-20px-tb">
-                                    <div class="text-extra-dark-gray font-weight-600 font-size14 alt-font">Finley
-                                        Walkeror</div>
-                                    <div
-                                        class="separator-line-horrizontal-medium-light bg-theme margin-lr-auto margin-10px-tb">
-                                    </div>
-                                    <div class="font-size14 xs-font-size13 font-weight-600">Co-Founder</div>
-                                </div>
-                                <ul class="social-links">
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-
-                            </div>
-                            <div class="bg-cover"></div>
-                        </div>
-                    </div>
-                    <!-- end team member -->
-
-                    <!-- start team member -->
-                    <div class="col-lg-3 col-md-6 col-xs-12 xs-margin-20px-bottom text-center">
-                        <div class="team-style">
-                            <div class="team-member-img padding-25px-all sm-padding-20px-all">
-                                <img src="img/team/team-3.jpg" alt="" />
-                                <div class="text-center margin-25px-tb sm-margin-20px-tb">
-                                    <div class="text-extra-dark-gray font-weight-600 font-size14 alt-font">Jamara Karle
-                                    </div>
-                                    <div
-                                        class="separator-line-horrizontal-medium-light bg-theme margin-lr-auto margin-10px-tb">
-                                    </div>
-                                    <div class="font-size14 xs-font-size13 font-weight-600">Designer</div>
-                                </div>
-                                <ul class="social-links">
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-
-                            </div>
-                            <div class="bg-cover"></div>
-                        </div>
-                    </div>
-                    <!-- end team member -->
-
-                    <!-- start team member -->
-                    <div class="col-lg-3 col-md-6 col-xs-12 text-center">
-                        <div class="team-style">
-                            <div class="team-member-img padding-25px-all sm-padding-20px-all">
-                                <img src="img/team/team-4.jpg" alt="" />
-                                <div class="text-center margin-25px-tb sm-margin-20px-tb">
-                                    <div class="text-extra-dark-gray font-weight-600 font-size14 alt-font">Niamah Hower
-                                    </div>
-                                    <div
-                                        class="separator-line-horrizontal-medium-light bg-theme margin-lr-auto margin-10px-tb">
-                                    </div>
-                                    <div class="font-size14 xs-font-size13 font-weight-600">Developer</div>
-                                </div>
-                                <ul class="social-links">
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-
-                            </div>
-                            <div class="bg-cover"></div>
-                        </div>
-                    </div>
-                    <!-- end team member -->
-
-                </div>
-            </div>
-        </section>
-        <!-- end team section -->
 
         <!-- start newsletter section -->
         <section class="parallax cover-background" data-overlay-dark="7" data-background="img/banner/bg1.jpg">
@@ -908,7 +791,7 @@
 
                 <div class="section-heading2">
                     <span class="alt-font">Our Blog</span>
-                    <h3>Latest Blog Posts</h3>
+                    <h3>Experiencia Laboral</h3>
                 </div>
 
                 <div class="row">
