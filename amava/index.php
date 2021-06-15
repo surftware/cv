@@ -80,13 +80,10 @@
                                                         Pasante de Ingeniería Eléctrica y Electrónica en
                                                         la UNAM.
                                                         Posee experiencia en servicio y soporte técnico
-                                                        a equipo de cómputo, redes e instalaciones
+                                                        a equipo de cómputo, redes de computadoras e instalaciones
                                                         eléctricas.
-
-                                                        Redes de computadoras
-
-                                                        Cuento con un Diplomado en Servidores Linux
-
+                                                        
+                                                        Cuenta con un Diplomado en Servidores Linux
                                                         y los cursos CCNA CISCO.
 
                                                         Su principal filosofía es el aprendizaje continuo
@@ -98,7 +95,7 @@
                                                     <p class="padding-25px-lr width-95 center-col text-justify">Experiencia en servicio, instalación y mantenimiento de
                                                         infraestructura de Networking,
                                                         Configuración de equipos, (Servidores, switching, access point).
-                                                        Instalaciones eléctricas de baja tensión</p>
+                                                        Instalaciones eléctricas de baja tensión.</p>
                                                 </div>
                                             </div>
 
@@ -115,21 +112,22 @@
                                         </a>
                                     </div>
                                     <ul class="resp-tabs-list hor_1">
-                                        <li><i class="fab fa-renren text-theme-color"></i><span
+                                        <li><i class="fas fa-donate"></i><span
                                                 class="display-block sm-display-inline-block sm-vertical-align-top">Profesional Polivalente </span>
+                                        </li>
+                                        <li><i class="far fa-chart-bar"></i><span
+                                                class="display-block sm-display-inline-block sm-vertical-align-top">Manejo del tiempo y organización</span>
+                                        </li>
+                                        <li><i class="fas fa-user-tie"></i><span
+                                                class="display-block sm-display-inline-block sm-vertical-align-top">Comunicación asertiva</span>
                                         </li>
                                         <li><i class="fas fa-users-cog"></i><span
                                                 class="display-block sm-display-inline-block sm-vertical-align-top sm-width-50">Trabajo en Equipo</span>
-                                        </li>
-                                        <li><i class="fas fa-code text-theme-color"></i><span
-                                                class="display-block sm-display-inline-block sm-vertical-align-top">Manejo del tiempo y organización</span>
-                                        </li>
-                                        <li><i class="fas fa-database text-theme-color"></i><span
+                                        </li>                                        
+                                        <li><i class="fas fa-brain"></i><span
                                                 class="display-block sm-display-inline-block sm-vertical-align-top sm-width-50">Adaptabilidad</span>
                                         </li>
-                                        <li><i class="fas fa-rocket text-theme-color"></i><span
-                                                class="display-block sm-display-inline-block sm-vertical-align-top">Comunicación asertiva</span>
-                                        </li>
+                                        
                                     </ul>
                                     
                                 </div>
@@ -233,17 +231,17 @@
                 <div class="row margin-30px-bottom border-bottom border-color-light-white">
                     <div class="col-lg-4 col-md-4 sm-margin-30px-bottom text-center">
                         <h3 class="footer-title-style text-white">Teléfono <i class="fas fa-phone"></i></h3>
-                        <p class="font-size16 sm-font-size14">55 1189 4621</p>
+                        <p class="font-size16 sm-font-size14 text-white">55 1189 4621</p>
                     </div>
 
                     <div class="col-lg-4 col-md-4 sm-margin-30px-bottom text-center">
                         <h3 class="footer-title-style text-white">E-mail <i class="fas fa-envelope"></i></h3>
-                        <p class="font-size16 sm-font-size14 mb-4">arciniegasolano@outlook.con</p>
+                        <p class="font-size16 sm-font-size14 text-white mb-4">arciniegasolano@outlook.con</p>
                     </div>
 
                     <div class="col-lg-4 col-md-4 text-center">
                         <h3 class="footer-title-style text-white">Dirección <i class="fas fa-map-marker-alt"></i></h3>
-                        <p class="font-size16 sm-font-size14">Oriente 85 #3406; Colonia La Joya C.P.07890</p>
+                        <p class="font-size16 sm-font-size14 text-white">Oriente 85 #3406; Colonia La Joya C.P.07890</p>
                     </div>
                 </div>
 
