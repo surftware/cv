@@ -1,13 +1,13 @@
 Desarrollo Web Front End con HTML5, CSS3, LESS/SASS, BootStrap, javaScript
 Desarrollo Back End intemedio-básico con PHP, Java
 
-Diseño, e implementación de bases de datos con MySQL, nivel intermedio-avanzado
+Diseño, e implementación de bases de datos con MySQL, nivel intermedio-avanzado.
 
-Experiencia con otros lenguajes de programación tales como Python, Lenguaje C, 
+Experiencia con otros lenguajes de programación tales como Python, Lenguaje C. 
 
 Experiencia con CMS tales como Hybris-SAP, Wordpress, Go-Daddy.
 
-Experiencia con Laravel
+Experiencia con Laravel.
 
 Conocimiento en administración y dirección de equipos
 de trabajo.
