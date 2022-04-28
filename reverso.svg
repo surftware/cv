@@ -602,17 +602,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1024"
-     inkscape:window-height="719"
+     inkscape:window-width="800"
+     inkscape:window-height="551"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="341.24496"
-     inkscape:cy="621.51528"
+     inkscape:cx="289.32171"
+     inkscape:cy="1108.9407"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g547"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true"><sodipodi:guide
        position="8,811.99999"
@@ -935,6 +935,8 @@
      id="tspan766">Experiencia Laboral</tspan></text>
 
 
+
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,679.00649)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -943,6 +945,8 @@
      y="0"
      sodipodi:role="line"
      id="tspan770">CCNA 1</tspan></text>
+
+
 
 
 <text
@@ -955,6 +959,8 @@
      id="tspan774">.Networking Basics.</tspan></text>
 
 
+
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,664.0065)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -963,6 +969,8 @@
      y="0"
      sodipodi:role="line"
      id="tspan778">CCNA 2</tspan></text>
+
+
 
 
 <text
@@ -975,6 +983,8 @@
      id="tspan782">.Router andRouting Basics.</tspan></text>
 
 
+
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,649.0065)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -983,6 +993,8 @@
      y="0"
      sodipodi:role="line"
      id="tspan786">CCNA 3</tspan></text>
+
+
 
 
 <text
@@ -999,6 +1011,8 @@
      id="tspan792">Routing.</tspan></text>
 
 
+
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,619.00651)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1007,6 +1021,8 @@
      y="0"
      sodipodi:role="line"
      id="tspan796">CCNA 4</tspan></text>
+
+
 
 
 <text
@@ -1050,6 +1066,8 @@
      id="tspan816">.</tspan></text>
 
 
+
+
 <text
    transform="matrix(0.9956847,0,0,-1,534.55826,740.2705)"
    style="font-variant:normal;font-weight:bold;font-size:25.0541172px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1058,6 +1076,8 @@
      y="0"
      sodipodi:role="line"
      id="tspan820">Cursos</tspan></text>
+
+
 
 
 <path
@@ -1086,6 +1106,8 @@
      id="tspan832">CONTACTO</tspan></text>
 
 
+
+
 <text
    transform="matrix(1,0,0,-0.99636645,50.264635,30.679657)"
    style="font-variant:normal;font-weight:normal;font-size:10.03646469px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1104,6 +1126,8 @@
      id="tspan840">México.</tspan></text>
 
 
+
+
 <text
    transform="matrix(1,0,0,-0.99636636,401.09794,27.00969)"
    style="font-variant:normal;font-weight:normal;font-size:9.03281879px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1118,6 +1142,8 @@
      id="tspan846">55 63808967</tspan></text>
 
 
+
+
 <text
    transform="matrix(1,0,0,-0.99636645,220.9283,25.618201)"
    style="font-variant:normal;font-weight:normal;font-size:10.03646469px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1126,6 +1152,8 @@
      y="0"
      sodipodi:role="line"
      id="tspan850">arciniegasolano@outlook.com</tspan></text>
+
+
 
 
 
@@ -1154,16 +1182,13 @@
    transform="scale(0.99784008,1.0021646)"
    x="-608.83875"
    y="265.53101"><tspan
-     id="tspan950"
-     sodipodi:role="line"
-     y="265.53101"
-     x="-608.83875 -597.76935 -588.97388 -581.53711 -575.93091 -571.96936 -563.23114 -554.17828 -549.64465 -541.19244 -536.65887 -527.59167 -518.49591 -509.70047 -502.26367 -496.65747 -487.90494 -483.37137 -474.57593 -465.48013 -460.94653 -447.01685 -438.26431 -432.65811 -424.80658 -415.75369 -406.95825 -402.42465 -393.35748 -384.56204 -380.02844 -374.43655 -365.64111 -357.78955 -348.73669 -342.81586 -335.37909 -326.64084 -319.20401 -314.67044 -310.70892 -301.65604 -296.62189 -287.88364 -282.23453 -268.30484 -259.55231 -253.94612 -249.98454 -242.13301 -233.39479 -225.95799 -221.42439 -212.35722 -203.56178 -199.60027 -195.0667 -190.86201 -181.76625 -174.32942 -168.72325 -164.76173 -159.15553 -150.10265 -144.45354 -135.71532 -131.18169 -122.42915 -113.36198 -105.92522 -98.073624 -92.152847 -88.191299 -82.585098 -73.846878 -69.313248 -60.560745 -56.599197 -52.065628 -38.135941 -29.083021 -19.987257 -16.025709 -8.1742077 -4.2126594 4.8544793 8.8160267 17.554247 22.087877 31.155016 39.950489 44.484058 50.776722 59.515003 68.567856 77.320358 86.373215 90.334763 95.940964 99.902512 108.65508 113.23149 122.02702 131.07982 135.61345 139.57494 148.3275"
-     style="stroke-width:1.3304534">Gestión y puesta en marcha de recursos informáticos del Instituto adscrito al municipio de Tonanitla en la</tspan><tspan
      id="tspan952"
      sodipodi:role="line"
-     y="283.40793"
-     x="-608.83875 -598.85626 -590.11804 -581.37976 -575.745 -566.6778 -562.71625 -553.66339 -544.91089 -537.05933 -533.09778 -524.35956 -515.3067 -510.73019 -501.70593 -494.2691 -488.6629 -479.91037 -474.26126 -465.50873 -461.54721 -457.01361 -444.6857 -436.13339 -427.68115 -423.71964 -415.8681 -407.12985 -402.59628 -391.34097 -385.46304 -381.50153 -372.70605 -363.6532 -358.00409 -349.20865"
-     style="stroke-width:1.3304534">Coordinación Estatal México Oriente.</tspan></text>
+     style="stroke-width:1.3304534"
+     x="-608.83875"
+     y="278.18451" /></text>
+
+
 
 <text
    id="text960"
@@ -1181,6 +1206,8 @@
      y="243.07104"
      x="-606.44843 -596.44843 -586.44843 -576.44843 -566.44843 -556.44843 -546.44843 -536.44843 -526.44843 -516.44843 -506.44843 -496.44843 -486.44843 -476.44843 -466.44846 -456.44843 -446.44846 -436.44843 -426.44846 -416.44846 -406.44846"
      style="stroke-width:1.3304534">enero 2020- mayo 2020</tspan></text>
+
+
 
 <flowRoot
    xml:space="preserve"
@@ -1223,6 +1250,8 @@
      style="line-height:0.89999998;stroke-width:1.3304534"
      y="56.352417">octubre 2021 - abril 2022</tspan></text>
 
+
+
 <text
    id="text954-4"
    style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
@@ -1260,6 +1289,8 @@
      y="167.67284"
      id="tspan853"> .</tspan></text>
 
+
+
 </g><g
        id="g675"
        transform="translate(150,406)"><text
@@ -1273,6 +1304,8 @@
      y="413.40839"
      x="-139.95549 -122.918 -108.72701 -92.728394 -78.537407 -61.167477 -46.997265 -32.806286 -25.575739 -8.3304701 5.8605247 13.091069 28.050802 35.780018 50.739765 64.909981 79.10096 99.836845 115.89779"
      style="stroke-width:1.3304534">GERENTE DE SISTEMAS</tspan></text>
+
+
 
 <text
    id="text894"
@@ -1311,6 +1344,8 @@
      x="-142.09496 -132.11249 -123.37424 -114.32137 -109.28723 -105.32571 -96.25853 -87.205658 -81.327728 -72.532288 -64.68074 -60.719212 -51.980976 -42.928089 -38.39452 -29.942305 -25.408728 -16.312941 -8.8761568 -0.13790633 4.395678 13.462848 22.258303 26.791887 34.228672 42.966923 47.757938 53.36414 65.048492 73.801025 79.407227 88.202682 92.736267 101.53171 110.58459 115.11818 124.18535 132.98079 142.07655 150.87202 156.74992 165.50249 169.464"
      style="stroke-width:1.3304534">Configuración y uso de software en general.</tspan></text>
 
+
+
 <text
    id="text900"
    style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
@@ -1328,6 +1363,8 @@
      x="-139.70465 -129.70465 -119.70465 -109.70465 -99.704651 -89.704651 -79.704651 -69.704659 -59.704655 -49.704655 -39.704655 -29.704657 -19.704641 -9.704648 0.29533648 10.295352 20.295336 30.295351 40.295338 50.295338 60.295353 70.295349 80.295349 90.295349 100.29535"
      style="stroke-width:1.3304534">octubre 2015- agosto 2016</tspan></text>
 
+
+
 </g><g
        id="g701"
        transform="translate(150,74)"><text
@@ -1341,6 +1378,8 @@
      y="598.36938"
      x="-139.50539 -122.26011 -108.06912 -93.109375 -77.048416 -61.049801 -45.051182 -27.390368 -14.155147 -0.91990155 15.141026 32.386295 49.984776 65.983421 73.213966 87.404945 103.40356 121.06438 138.43431 152.60451 159.83507 174.02605 191.39598 208.64125 215.87178 223.601"
      style="stroke-width:1.3304534">DESARROLLADOR FRONT END JR</tspan></text>
+
+
 
 <text
    id="text914"
@@ -1369,6 +1408,8 @@
      x="-141.64484 -131.19041 -122.12325 -113.07037 -104.0175 -98.368393 -89.315521 -84.781937 -75.71476 -66.919319 -61.041378 -52.589176 -43.793736 -37.87289 -33.339314 -28.805723 -19.023466 -9.956296 -1.203748 6.6477838 15.743548 24.539003"
      style="stroke-width:1.3304534">Ubuntu Server, Apache.</tspan></text>
 
+
+
 <text
    id="text920"
    style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
@@ -1386,6 +1427,8 @@
      x="-139.25453 -129.25455 -119.25454 -109.25454 -99.254539 -89.254539 -79.254539 -69.254547 -59.254543 -49.254543 -39.254543 -29.254538 -19.254538 -9.2545443 0.7454555 10.745456 20.745455 30.74547 40.745457 50.745457 60.745457 70.745453 80.745453 90.745453"
      style="stroke-width:1.3304534">octubre 2017- abril 2018</tspan></text>
 
+
+
 </g><g
        id="g689"
        transform="translate(152,-264)"><text
@@ -1399,6 +1442,8 @@
      y="750.03241"
      x="-140.77509 -123.52982 -109.33883 -94.379082 -78.318123 -62.319508 -46.320889 -28.660074 -15.424838 -2.1896007 13.871327 31.116598 48.715076 64.713707 71.944252 86.135246 102.13386 119.79467 137.1646 151.33479 158.56535 172.75633 190.12627 207.37154 214.60207 222.33131"
      style="stroke-width:1.3304534">DESARROLLADOR FRONT END JR</tspan></text>
+
+
 
 <text
    id="text938"
@@ -1437,6 +1482,8 @@
      x="-142.91454 -136.27863 -130.4007 -121.64815 -112.58097 -103.82843 -99.866913 -91.12867 -86.595078 -78.743538 -70.005295 -60.909527 -56.375935 -45.306553 -41.101894 -34.06554"
      style="stroke-width:1.3304534">Trabajo con GIT.</tspan></text>
 
+
+
 <text
    id="text944"
    style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
@@ -1454,4 +1501,19 @@
      x="-140.52425 -130.52425 -120.52425 -110.52424 -100.52425 -90.524239 -80.524239 -70.524246 -60.524242 -50.524242 -40.524242 -30.52424 -20.52424 -10.524241 -0.52424115 9.4757586 19.47576 29.475775 39.475758 49.475758 59.475758 69.475761"
      style="stroke-width:1.3304534">enero 2019- junio 2019</tspan></text>
 
-</g></g></svg>
+
+
+</g><flowRoot
+       xml:space="preserve"
+       id="flowRoot4210"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.30153561px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"><rect
+           id="rect4214"
+           width="526.57269"
+           height="72.124878"
+           x="8"
+           y="410.90524"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'" /></flowRegion><flowPara
+         id="flowPara4218"
+         style="font-size:14.30153561px;fill:#ffffff">Gestión y puesta en marcha de recursos informáticos del Instituto adscrito al municipio de Tonanitla en la Coordinación Estatal México Oriente.</flowPara></flowRoot></g></svg>
