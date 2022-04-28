@@ -606,9 +606,9 @@
      inkscape:window-height="719"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="238.43153"
-     inkscape:cy="464.54354"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="341.24496"
+     inkscape:cy="621.51528"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -934,6 +934,7 @@
      sodipodi:role="line"
      id="tspan766">Experiencia Laboral</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,679.00649)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -942,6 +943,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan770">CCNA 1</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-0.99999992,499.90934,679.00649)"
@@ -952,6 +954,7 @@
      sodipodi:role="line"
      id="tspan774">.Networking Basics.</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,664.0065)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -960,6 +963,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan778">CCNA 2</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-0.99999992,499.90934,664.0065)"
@@ -970,6 +974,7 @@
      sodipodi:role="line"
      id="tspan782">.Router andRouting Basics.</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,649.0065)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -978,6 +983,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan786">CCNA 3</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-0.99999992,499.90934,649.0065)"
@@ -992,6 +998,7 @@
      sodipodi:role="line"
      id="tspan792">Routing.</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-0.99999992,450.49335,619.00651)"
    style="font-variant:normal;font-weight:bold;font-size:11.99999714px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1000,6 +1007,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan796">CCNA 4</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-0.99999992,499.90934,619.00651)"
@@ -1041,6 +1049,7 @@
      y="149.99995"
      id="tspan816">.</tspan></text>
 
+
 <text
    transform="matrix(0.9956847,0,0,-1,534.55826,740.2705)"
    style="font-variant:normal;font-weight:bold;font-size:25.0541172px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1049,6 +1058,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan820">Cursos</tspan></text>
+
 
 <path
    d="m 37.152,29.965 c -1.922,0 -3.48,1.575 -3.48,3.516 0,1.941 1.558,3.516 3.48,3.516 1.926,0 3.481,-1.575 3.481,-3.516 0,-1.941 -1.555,-3.516 -3.481,-3.516 m 0.176,11.036 c -4.25,0 -7.699,-3.481 -7.699,-7.774 0,-1.707 0.562,-3.269 1.488,-4.555 l -0.019,-0.007 0.246,-0.27 c 0.258,-0.324 0.531,-0.625 0.832,-0.906 l 5.273,-5.735 5.047,5.747 c 1.543,1.421 2.531,3.453 2.531,5.726 0,4.293 -3.449,7.774 -7.699,7.774"
@@ -1075,6 +1085,7 @@
      sodipodi:role="line"
      id="tspan832">CONTACTO</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-0.99636645,50.264635,30.679657)"
    style="font-variant:normal;font-weight:normal;font-size:10.03646469px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1092,6 +1103,7 @@
      sodipodi:role="line"
      id="tspan840">México.</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-0.99636636,401.09794,27.00969)"
    style="font-variant:normal;font-weight:normal;font-size:9.03281879px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1104,6 +1116,7 @@
      y="11.291024"
      sodipodi:role="line"
      id="tspan846">55 63808967</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-0.99636645,220.9283,25.618201)"
@@ -1129,302 +1142,316 @@
 
 
 
+
 </g></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="listaEmpleos"><g
        id="g547"
        transform="translate(616,158)"><text
-         id="text954"
-         style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-608.83875"
-         y="265.53101"><tspan
-           id="tspan950"
-           sodipodi:role="line"
-           y="265.53101"
-           x="-608.83875 -597.76935 -588.97388 -581.53711 -575.93091 -571.96936 -563.23114 -554.17828 -549.64465 -541.19244 -536.65887 -527.59167 -518.49591 -509.70047 -502.26367 -496.65747 -487.90494 -483.37137 -474.57593 -465.48013 -460.94653 -447.01685 -438.26431 -432.65811 -424.80658 -415.75369 -406.95825 -402.42465 -393.35748 -384.56204 -380.02844 -374.43655 -365.64111 -357.78955 -348.73669 -342.81586 -335.37909 -326.64084 -319.20401 -314.67044 -310.70892 -301.65604 -296.62189 -287.88364 -282.23453 -268.30484 -259.55231 -253.94612 -249.98454 -242.13301 -233.39479 -225.95799 -221.42439 -212.35722 -203.56178 -199.60027 -195.0667 -190.86201 -181.76625 -174.32942 -168.72325 -164.76173 -159.15553 -150.10265 -144.45354 -135.71532 -131.18169 -122.42915 -113.36198 -105.92522 -98.073624 -92.152847 -88.191299 -82.585098 -73.846878 -69.313248 -60.560745 -56.599197 -52.065628 -38.135941 -29.083021 -19.987257 -16.025709 -8.1742077 -4.2126594 4.8544793 8.8160267 17.554247 22.087877 31.155016 39.950489 44.484058 50.776722 59.515003 68.567856 77.320358 86.373215 90.334763 95.940964 99.902512 108.65508 113.23149 122.02702 131.07982 135.61345 139.57494 148.3275"
-           style="stroke-width:1.3304534">Gestión y puesta en marcha de recursos informáticos del Instituto adscrito al municipio de Tonanitla en la</tspan><tspan
-           id="tspan952"
-           sodipodi:role="line"
-           y="283.40793"
-           x="-608.83875 -598.85626 -590.11804 -581.37976 -575.745 -566.6778 -562.71625 -553.66339 -544.91089 -537.05933 -533.09778 -524.35956 -515.3067 -510.73019 -501.70593 -494.2691 -488.6629 -479.91037 -474.26126 -465.50873 -461.54721 -457.01361 -444.6857 -436.13339 -427.68115 -423.71964 -415.8681 -407.12985 -402.59628 -391.34097 -385.46304 -381.50153 -372.70605 -363.6532 -358.00409 -349.20865"
-           style="stroke-width:1.3304534">Coordinación Estatal México Oriente.</tspan></text>
+   id="text954"
+   style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-608.83875"
+   y="265.53101"><tspan
+     id="tspan950"
+     sodipodi:role="line"
+     y="265.53101"
+     x="-608.83875 -597.76935 -588.97388 -581.53711 -575.93091 -571.96936 -563.23114 -554.17828 -549.64465 -541.19244 -536.65887 -527.59167 -518.49591 -509.70047 -502.26367 -496.65747 -487.90494 -483.37137 -474.57593 -465.48013 -460.94653 -447.01685 -438.26431 -432.65811 -424.80658 -415.75369 -406.95825 -402.42465 -393.35748 -384.56204 -380.02844 -374.43655 -365.64111 -357.78955 -348.73669 -342.81586 -335.37909 -326.64084 -319.20401 -314.67044 -310.70892 -301.65604 -296.62189 -287.88364 -282.23453 -268.30484 -259.55231 -253.94612 -249.98454 -242.13301 -233.39479 -225.95799 -221.42439 -212.35722 -203.56178 -199.60027 -195.0667 -190.86201 -181.76625 -174.32942 -168.72325 -164.76173 -159.15553 -150.10265 -144.45354 -135.71532 -131.18169 -122.42915 -113.36198 -105.92522 -98.073624 -92.152847 -88.191299 -82.585098 -73.846878 -69.313248 -60.560745 -56.599197 -52.065628 -38.135941 -29.083021 -19.987257 -16.025709 -8.1742077 -4.2126594 4.8544793 8.8160267 17.554247 22.087877 31.155016 39.950489 44.484058 50.776722 59.515003 68.567856 77.320358 86.373215 90.334763 95.940964 99.902512 108.65508 113.23149 122.02702 131.07982 135.61345 139.57494 148.3275"
+     style="stroke-width:1.3304534">Gestión y puesta en marcha de recursos informáticos del Instituto adscrito al municipio de Tonanitla en la</tspan><tspan
+     id="tspan952"
+     sodipodi:role="line"
+     y="283.40793"
+     x="-608.83875 -598.85626 -590.11804 -581.37976 -575.745 -566.6778 -562.71625 -553.66339 -544.91089 -537.05933 -533.09778 -524.35956 -515.3067 -510.73019 -501.70593 -494.2691 -488.6629 -479.91037 -474.26126 -465.50873 -461.54721 -457.01361 -444.6857 -436.13339 -427.68115 -423.71964 -415.8681 -407.12985 -402.59628 -391.34097 -385.46304 -381.50153 -372.70605 -363.6532 -358.00409 -349.20865"
+     style="stroke-width:1.3304534">Coordinación Estatal México Oriente.</tspan></text>
+
 <text
-         id="text960"
-         style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-606.44843"
-         y="227.07104"><tspan
-           id="tspan956"
-           sodipodi:role="line"
-           y="227.07104"
-           x="-606.44843 -596.44843 -586.44843 -576.44843 -566.44843"
-           style="stroke-width:1.3304534">INEGI</tspan><tspan
-           id="tspan958"
-           sodipodi:role="line"
-           y="243.07104"
-           x="-606.44843 -596.44843 -586.44843 -576.44843 -566.44843 -556.44843 -546.44843 -536.44843 -526.44843 -516.44843 -506.44843 -496.44843 -486.44843 -476.44843 -466.44846 -456.44843 -446.44846 -436.44843 -426.44846 -416.44846 -406.44846"
-           style="stroke-width:1.3304534">enero 2020- mayo 2020</tspan></text>
+   id="text960"
+   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-606.44843"
+   y="227.07104"><tspan
+     id="tspan956"
+     sodipodi:role="line"
+     y="227.07104"
+     x="-606.44843 -596.44843 -586.44843 -576.44843 -566.44843"
+     style="stroke-width:1.3304534">INEGI</tspan><tspan
+     id="tspan958"
+     sodipodi:role="line"
+     y="243.07104"
+     x="-606.44843 -596.44843 -586.44843 -576.44843 -566.44843 -556.44843 -546.44843 -536.44843 -526.44843 -516.44843 -506.44843 -496.44843 -486.44843 -476.44843 -466.44846 -456.44843 -446.44846 -436.44843 -426.44846 -416.44846 -406.44846"
+     style="stroke-width:1.3304534">enero 2020- mayo 2020</tspan></text>
+
 <flowRoot
-         xml:space="preserve"
-         id="flowRoot759"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         transform="translate(-866,58)"><flowRegion
-           id="flowRegion761"><rect
-             id="rect763"
-             width="448"
-             height="54"
-             x="260"
-             y="113.48511" /></flowRegion><flowPara
-           id="flowPara765"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.7733326px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#0cbdb7">SOPORTE INFORMÁTICO CENSO 2020</flowPara></flowRoot><flowRoot
-         xml:space="preserve"
-         id="flowRoot759-8"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         transform="translate(-866.67952,-131.08591)"><flowRegion
-           id="flowRegion761-8"><rect
-             id="rect763-8"
-             width="237.28215"
-             height="114.8112"
-             x="260"
-             y="113.48511" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.7733326px;line-height:0;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#0cbdb7"
-           id="flowPara791">CONSULTOR JR</flowPara></flowRoot><text
-         id="text960-7"
-         style="font-variant:normal;font-weight:bold;font-size:20px;line-height:0.89999998;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-605.38904"
-         y="37.393883"><tspan
-           id="tspan956-7"
-           sodipodi:role="line"
-           x="-605.38904"
-           style="line-height:0.89999998;stroke-width:1.3304534"
-           y="37.393883">SACTI Consultores S.A. de C.V.</tspan><tspan
-           id="tspan958-6"
-           sodipodi:role="line"
-           x="-605.38904"
-           style="line-height:0.89999998;stroke-width:1.3304534"
-           y="56.352417">octubre 2021 - abril 2022</tspan></text>
+   xml:space="preserve"
+   id="flowRoot759"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-866,58)"><flowRegion
+     id="flowRegion761"><rect
+       id="rect763"
+       width="448"
+       height="54"
+       x="260"
+       y="113.48511" /></flowRegion><flowPara
+     id="flowPara765"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.7733326px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#0cbdb7">SOPORTE INFORMÁTICO CENSO 2020</flowPara></flowRoot><flowRoot
+   xml:space="preserve"
+   id="flowRoot759-8"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-866.67952,-131.08591)"><flowRegion
+     id="flowRegion761-8"><rect
+       id="rect763-8"
+       width="237.28215"
+       height="114.8112"
+       x="260"
+       y="113.48511" /></flowRegion><flowPara
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.7733326px;line-height:0;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#0cbdb7"
+     id="flowPara791">CONSULTOR JR</flowPara></flowRoot><text
+   id="text960-7"
+   style="font-variant:normal;font-weight:bold;font-size:20px;line-height:0.89999998;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-605.38904"
+   y="37.393883"><tspan
+     id="tspan956-7"
+     sodipodi:role="line"
+     x="-605.38904"
+     style="line-height:0.89999998;stroke-width:1.3304534"
+     y="37.393883">SACTI Consultores S.A. de C.V.</tspan><tspan
+     id="tspan958-6"
+     sodipodi:role="line"
+     x="-605.38904"
+     style="line-height:0.89999998;stroke-width:1.3304534"
+     y="56.352417">octubre 2021 - abril 2022</tspan></text>
+
 <text
-         id="text954-4"
-         style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-607.341"
-         y="78.288246"><tspan
-           sodipodi:role="line"
-           x="-607.341"
-           style="stroke-width:1.3304534"
-           y="78.288246"
-           id="tspan841">Creación de landings y realización de cambios en el</tspan><tspan
-           sodipodi:role="line"
-           x="-607.341"
-           style="stroke-width:1.3304534"
-           y="96.165169"
-           id="tspan845">front end de sitios pertenecientes a Office Depot</tspan><tspan
-           sodipodi:role="line"
-           x="-607.341"
-           style="stroke-width:1.3304534"
-           y="114.04208"
-           id="tspan847">(México y Centro América),Radio Shack México, Petco,</tspan><tspan
-           sodipodi:role="line"
-           x="-607.341"
-           style="stroke-width:1.3304534"
-           y="131.91901"
-           id="tspan849">The Home Store y Casa Marchand, apoyados en el uso del</tspan><tspan
-           sodipodi:role="line"
-           x="-607.341"
-           style="stroke-width:1.3304534"
-           y="149.79593"
-           id="tspan851">CMS Hybris-SAP y lenguaje JSTL.</tspan><tspan
-           sodipodi:role="line"
-           x="-607.341"
-           style="stroke-width:1.3304534"
-           y="167.67284"
-           id="tspan853"> .</tspan></text>
+   id="text954-4"
+   style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-607.341"
+   y="78.288246"><tspan
+     sodipodi:role="line"
+     x="-607.341"
+     style="stroke-width:1.3304534"
+     y="78.288246"
+     id="tspan841">Creación de landings y realización de cambios en el</tspan><tspan
+     sodipodi:role="line"
+     x="-607.341"
+     style="stroke-width:1.3304534"
+     y="96.165169"
+     id="tspan849">front end de sitios  apoyados en el uso del</tspan><tspan
+     sodipodi:role="line"
+     x="-607.341"
+     style="stroke-width:1.3304534"
+     y="114.04208"
+     id="tspan851">CMS Hybris-SAP y lenguaje JSTL.</tspan><tspan
+     sodipodi:role="line"
+     x="-607.341"
+     style="stroke-width:1.3304534"
+     y="131.91901"
+     id="tspan497">Adicional de tecnologías web como son: HTML5,</tspan><tspan
+     sodipodi:role="line"
+     x="-607.341"
+     style="stroke-width:1.3304534"
+     y="149.79593"
+     id="tspan499">Bootstrap, javaScript, CSS3,GIT, entre otros.</tspan><tspan
+     sodipodi:role="line"
+     x="-607.341"
+     style="stroke-width:1.3304534"
+     y="167.67284"
+     id="tspan853"> .</tspan></text>
+
 </g><g
        id="g675"
        transform="translate(150,406)"><text
-         id="text880"
-         style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-139.95549"
-         y="413.40839"><tspan
-           id="tspan878"
-           sodipodi:role="line"
-           y="413.40839"
-           x="-139.95549 -122.918 -108.72701 -92.728394 -78.537407 -61.167477 -46.997265 -32.806286 -25.575739 -8.3304701 5.8605247 13.091069 28.050802 35.780018 50.739765 64.909981 79.10096 99.836845 115.89779"
-           style="stroke-width:1.3304534">GERENTE DE SISTEMAS</tspan></text>
+   id="text880"
+   style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-139.95549"
+   y="413.40839"><tspan
+     id="tspan878"
+     sodipodi:role="line"
+     y="413.40839"
+     x="-139.95549 -122.918 -108.72701 -92.728394 -78.537407 -61.167477 -46.997265 -32.806286 -25.575739 -8.3304701 5.8605247 13.091069 28.050802 35.780018 50.739765 64.909981 79.10096 99.836845 115.89779"
+     style="stroke-width:1.3304534">GERENTE DE SISTEMAS</tspan></text>
+
 <text
-         id="text894"
-         style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784007,1.0021646)"
-         x="-142.09496"
-         y="473.18488"><tspan
-           id="tspan882"
-           sodipodi:role="line"
-           y="473.18488"
-           x="-142.09496 -129.76703 -121.01449 -111.96162 -106.35542 -97.559975 -88.464195 -84.50267 -70.572975 -66.61145 -57.815998 -48.763126 -43.156925 -34.41869 -29.885107 -21.432898 -16.899313 -8.1038485 0.99191546 8.4287138 17.181261 31.110949 40.17812 44.139652 52.935093 57.468678 66.535858 75.331284 79.864868 88.660324 97.727493 106.82327 110.78479 119.85197 128.59019 136.02702 140.56059 149.62779 162.97112 170.82265 179.5609 193.49059 202.55775 211.61064 217.25975 225.998 231.57555 239.54152 248.29408 257.36127 262.96747 271.70572 280.77286 285.30646 293.75867 298.29224 309.30444 318.09985 325.53668 333.81726 339.42346 348.16171 357.22888"
-           style="stroke-width:1.3304534">Mantenimiento y ensamble de equipos decómputo(Laptop y Desktop,</tspan><tspan
-           id="tspan884"
-           sodipodi:role="line"
-           y="491.0618"
-           x="-142.09496 -137.8903 -123.9606 -114.89343 -109.30153 -100.50609 -93.06929 -84.331047 -78.453117 -69.700584 -62.263783 -56.686184"
-           style="stroke-width:1.3304534">Impresoras).</tspan><tspan
-           id="tspan886"
-           sodipodi:role="line"
-           y="508.93872"
-           x="-142.09496 -132.11249 -126.52058 -117.72514 -108.9726 -101.12106 -97.159531 -88.421288 -79.368416 -74.834831 -65.767654 -56.97221 -52.395718 -43.328548 -34.576 -25.508841 -21.547308 -12.494443 -3.741895 3.6949031 8.2285032 19.955751 28.751192 37.818378 42.351963 51.419132 60.214573 64.748154 68.709671 77.462219 81.995819 90.791245 104.72096 113.78813 119.39433 128.18977 135.62657 144.3791 149.95671 159.98207 169.04927 178.11644 182.65001 193.39046 202.11443 214.44231 222.40831 231.50404 236.03764 248.36559 256.81781 265.88498 277.14026 285.10623 289.63983 298.30658 309.047 317.67084 323.24844 327.78204"
-           style="stroke-width:1.3304534">Creación de páginas web de la empresa(CSS,HTML5,MySQL,PHP).</tspan><tspan
-           id="tspan888"
-           sodipodi:role="line"
-           y="526.81561"
-           x="-142.09496 -132.79895 -124.00351 -114.93633 -106.14089 -98.704094 -94.170509 -85.875618 -76.093369 -65.395821"
-           style="stroke-width:1.3304534">Redes LAN.</tspan><tspan
-           id="tspan890"
-           sodipodi:role="line"
-           y="544.69257"
-           x="-142.09496 -132.2841 -123.53156 -116.09476 -107.29932 -99.862518 -95.328934 -86.261757 -77.466316 -72.932732 -63.865551 -55.11301 -49.463902 -40.725666 -33.288876 -27.711264 -15.383344 -6.9311347 2.1360195 11.203219 15.164737 20.742327"
-           style="stroke-width:1.3304534">Bases de datos(MySql).</tspan><tspan
-           id="tspan892"
-           sodipodi:role="line"
-           y="562.56946"
-           x="-142.09496 -132.11249 -123.37424 -114.32137 -109.28723 -105.32571 -96.25853 -87.205658 -81.327728 -72.532288 -64.68074 -60.719212 -51.980976 -42.928089 -38.39452 -29.942305 -25.408728 -16.312941 -8.8761568 -0.13790633 4.395678 13.462848 22.258303 26.791887 34.228672 42.966923 47.757938 53.36414 65.048492 73.801025 79.407227 88.202682 92.736267 101.53171 110.58459 115.11818 124.18535 132.98079 142.07655 150.87202 156.74992 165.50249 169.464"
-           style="stroke-width:1.3304534">Configuración y uso de software en general.</tspan></text>
+   id="text894"
+   style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784007,1.0021646)"
+   x="-142.09496"
+   y="473.18488"><tspan
+     id="tspan882"
+     sodipodi:role="line"
+     y="473.18488"
+     x="-142.09496 -129.76703 -121.01449 -111.96162 -106.35542 -97.559975 -88.464195 -84.50267 -70.572975 -66.61145 -57.815998 -48.763126 -43.156925 -34.41869 -29.885107 -21.432898 -16.899313 -8.1038485 0.99191546 8.4287138 17.181261 31.110949 40.17812 44.139652 52.935093 57.468678 66.535858 75.331284 79.864868 88.660324 97.727493 106.82327 110.78479 119.85197 128.59019 136.02702 140.56059 149.62779 162.97112 170.82265 179.5609 193.49059 202.55775 211.61064 217.25975 225.998 231.57555 239.54152 248.29408 257.36127 262.96747 271.70572 280.77286 285.30646 293.75867 298.29224 309.30444 318.09985 325.53668 333.81726 339.42346 348.16171 357.22888"
+     style="stroke-width:1.3304534">Mantenimiento y ensamble de equipos decómputo(Laptop y Desktop,</tspan><tspan
+     id="tspan884"
+     sodipodi:role="line"
+     y="491.0618"
+     x="-142.09496 -137.8903 -123.9606 -114.89343 -109.30153 -100.50609 -93.06929 -84.331047 -78.453117 -69.700584 -62.263783 -56.686184"
+     style="stroke-width:1.3304534">Impresoras).</tspan><tspan
+     id="tspan886"
+     sodipodi:role="line"
+     y="508.93872"
+     x="-142.09496 -132.11249 -126.52058 -117.72514 -108.9726 -101.12106 -97.159531 -88.421288 -79.368416 -74.834831 -65.767654 -56.97221 -52.395718 -43.328548 -34.576 -25.508841 -21.547308 -12.494443 -3.741895 3.6949031 8.2285032 19.955751 28.751192 37.818378 42.351963 51.419132 60.214573 64.748154 68.709671 77.462219 81.995819 90.791245 104.72096 113.78813 119.39433 128.18977 135.62657 144.3791 149.95671 159.98207 169.04927 178.11644 182.65001 193.39046 202.11443 214.44231 222.40831 231.50404 236.03764 248.36559 256.81781 265.88498 277.14026 285.10623 289.63983 298.30658 309.047 317.67084 323.24844 327.78204"
+     style="stroke-width:1.3304534">Creación de páginas web de la empresa(CSS,HTML5,MySQL,PHP).</tspan><tspan
+     id="tspan888"
+     sodipodi:role="line"
+     y="526.81561"
+     x="-142.09496 -132.79895 -124.00351 -114.93633 -106.14089 -98.704094 -94.170509 -85.875618 -76.093369 -65.395821"
+     style="stroke-width:1.3304534">Redes LAN.</tspan><tspan
+     id="tspan890"
+     sodipodi:role="line"
+     y="544.69257"
+     x="-142.09496 -132.2841 -123.53156 -116.09476 -107.29932 -99.862518 -95.328934 -86.261757 -77.466316 -72.932732 -63.865551 -55.11301 -49.463902 -40.725666 -33.288876 -27.711264 -15.383344 -6.9311347 2.1360195 11.203219 15.164737 20.742327"
+     style="stroke-width:1.3304534">Bases de datos(MySql).</tspan><tspan
+     id="tspan892"
+     sodipodi:role="line"
+     y="562.56946"
+     x="-142.09496 -132.11249 -123.37424 -114.32137 -109.28723 -105.32571 -96.25853 -87.205658 -81.327728 -72.532288 -64.68074 -60.719212 -51.980976 -42.928089 -38.39452 -29.942305 -25.408728 -16.312941 -8.8761568 -0.13790633 4.395678 13.462848 22.258303 26.791887 34.228672 42.966923 47.757938 53.36414 65.048492 73.801025 79.407227 88.202682 92.736267 101.53171 110.58459 115.11818 124.18535 132.98079 142.07655 150.87202 156.74992 165.50249 169.464"
+     style="stroke-width:1.3304534">Configuración y uso de software en general.</tspan></text>
+
 <text
-         id="text900"
-         style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784007,1.0021646)"
-         x="-139.70465"
-         y="434.72485"><tspan
-           id="tspan896"
-           sodipodi:role="line"
-           y="434.72485"
-           x="-139.70465 -129.70465 -119.70465 -109.70465 -99.704651 -89.704651 -79.704651 -69.704659 -59.704655 -49.704655 -39.704655 -29.704657 -19.704641 -9.704648 0.29533648 10.295352 20.295336 30.295351 40.295338 50.295338 60.295353 70.295349 80.295349 90.295349 100.29535"
-           style="stroke-width:1.3304534">Víctor Montes y Asociados</tspan><tspan
-           id="tspan898"
-           sodipodi:role="line"
-           y="450.72485"
-           x="-139.70465 -129.70465 -119.70465 -109.70465 -99.704651 -89.704651 -79.704651 -69.704659 -59.704655 -49.704655 -39.704655 -29.704657 -19.704641 -9.704648 0.29533648 10.295352 20.295336 30.295351 40.295338 50.295338 60.295353 70.295349 80.295349 90.295349 100.29535"
-           style="stroke-width:1.3304534">octubre 2015- agosto 2016</tspan></text>
+   id="text900"
+   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784007,1.0021646)"
+   x="-139.70465"
+   y="434.72485"><tspan
+     id="tspan896"
+     sodipodi:role="line"
+     y="434.72485"
+     x="-139.70465 -129.70465 -119.70465 -109.70465 -99.704651 -89.704651 -79.704651 -69.704659 -59.704655 -49.704655 -39.704655 -29.704657 -19.704641 -9.704648 0.29533648 10.295352 20.295336 30.295351 40.295338 50.295338 60.295353 70.295349 80.295349 90.295349 100.29535"
+     style="stroke-width:1.3304534">Víctor Montes y Asociados</tspan><tspan
+     id="tspan898"
+     sodipodi:role="line"
+     y="450.72485"
+     x="-139.70465 -129.70465 -119.70465 -109.70465 -99.704651 -89.704651 -79.704651 -69.704659 -59.704655 -49.704655 -39.704655 -29.704657 -19.704641 -9.704648 0.29533648 10.295352 20.295336 30.295351 40.295338 50.295338 60.295353 70.295349 80.295349 90.295349 100.29535"
+     style="stroke-width:1.3304534">octubre 2015- agosto 2016</tspan></text>
+
 </g><g
        id="g701"
        transform="translate(150,74)"><text
-         id="text904"
-         style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-139.50539"
-         y="598.36938"><tspan
-           id="tspan902"
-           sodipodi:role="line"
-           y="598.36938"
-           x="-139.50539 -122.26011 -108.06912 -93.109375 -77.048416 -61.049801 -45.051182 -27.390368 -14.155147 -0.91990155 15.141026 32.386295 49.984776 65.983421 73.213966 87.404945 103.40356 121.06438 138.43431 152.60451 159.83507 174.02605 191.39598 208.64125 215.87178 223.601"
-           style="stroke-width:1.3304534">DESARROLLADOR FRONT END JR</tspan></text>
+   id="text904"
+   style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-139.50539"
+   y="598.36938"><tspan
+     id="tspan902"
+     sodipodi:role="line"
+     y="598.36938"
+     x="-139.50539 -122.26011 -108.06912 -93.109375 -77.048416 -61.049801 -45.051182 -27.390368 -14.155147 -0.91990155 15.141026 32.386295 49.984776 65.983421 73.213966 87.404945 103.40356 121.06438 138.43431 152.60451 159.83507 174.02605 191.39598 208.64125 215.87178 223.601"
+     style="stroke-width:1.3304534">DESARROLLADOR FRONT END JR</tspan></text>
+
 <text
-         id="text914"
-         style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784007,1.0021646)"
-         x="-141.64484"
-         y="658.14587"><tspan
-           id="tspan906"
-           sodipodi:role="line"
-           y="658.14587"
-           x="-141.64484 -131.66237 -126.07047 -117.27502 -108.52248 -100.67094 -96.709412 -87.971176 -78.918304 -74.38472 -65.93251 -61.356014 -47.426319 -38.673779 -29.606611 -20.553747 -11.758298 -6.1520972 2.6433589 10.494906 14.456424 23.194658 32.247532 36.781132 45.848301 54.643757 59.177326 66.614136 70.575653 76.181839 80.143372 88.881607 96.318405 100.85199 112.57925 121.37471 130.44188 134.97548 142.82701 151.56526 160.61812 165.15172 175.89217 184.65901 196.98692 204.9529 214.04866 218.58223 223.11583 233.09831 242.16545 251.23262 255.80916 260.34271 264.87631 274.68716 283.42542 292.16367 297.76984 305.20667 310.81287 316.6908 325.44333 334.5105 339.08698 343.62057 352.24442 362.98489 369.39197"
-           style="stroke-width:1.3304534">Creación y maquetación de sitios web con HTML5, CSS , Bootstrap ,PHP.</tspan><tspan
-           id="tspan908"
-           sodipodi:role="line"
-           y="676.02277"
-           x="-141.64484 -130.63266 -126.67113 -119.23433 -110.43889 -101.38602 -92.647774 -88.114189 -79.318748 -74.785164 -70.823639 -56.893932 -47.826763 -43.865231 -35.069805 -21.140104 -12.344663 -3.2917912 2.3144252 11.109866 18.961397 22.92293 31.661165 40.714039 45.247623 54.314808 63.110249 67.643829 76.711014 85.463547 92.943253 101.73871 109.17549 113.70909 122.77626 131.5717 136.1053 145.17247 153.925 159.5312 168.26942 175.70622 180.28273 185.86031 194.65578 198.61729 207.36986 215.22139 219.18291 227.92116 236.97401 245.72655 249.68806 258.48355 265.92032 270.45395 282.82474 291.27695 300.34415 309.41132 313.37283"
-           style="stroke-width:1.3304534">Diseño e implementación de bases de datos relacionales MySql.</tspan><tspan
-           id="tspan910"
-           sodipodi:role="line"
-           y="693.89972"
-           x="-141.64484 -132.57767 -123.78222 -115.02968 -109.43778 -101.58624 -92.533363 -87.999779 -78.93261 -69.879738 -60.812557 -56.851032 -47.798153 -39.002712 -34.469135 -23.213827 -14.146649 -8.4975405 -4.5360236 9.3936796 13.355197 20.849199 29.601748 35.207951 39.169468 47.907719 56.96059 61.494175 67.071777 76.138947 85.206116 96.461426 102.03902"
-           style="stroke-width:1.3304534">Search Engine Optimization (SEO).</tspan><tspan
-           id="tspan912"
-           sodipodi:role="line"
-           y="711.77661"
-           x="-141.64484 -131.19041 -122.12325 -113.07037 -104.0175 -98.368393 -89.315521 -84.781937 -75.71476 -66.919319 -61.041378 -52.589176 -43.793736 -37.87289 -33.339314 -28.805723 -19.023466 -9.956296 -1.203748 6.6477838 15.743548 24.539003"
-           style="stroke-width:1.3304534">Ubuntu Server, Apache.</tspan></text>
+   id="text914"
+   style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784007,1.0021646)"
+   x="-141.64484"
+   y="658.14587"><tspan
+     id="tspan906"
+     sodipodi:role="line"
+     y="658.14587"
+     x="-141.64484 -131.66237 -126.07047 -117.27502 -108.52248 -100.67094 -96.709412 -87.971176 -78.918304 -74.38472 -65.93251 -61.356014 -47.426319 -38.673779 -29.606611 -20.553747 -11.758298 -6.1520972 2.6433589 10.494906 14.456424 23.194658 32.247532 36.781132 45.848301 54.643757 59.177326 66.614136 70.575653 76.181839 80.143372 88.881607 96.318405 100.85199 112.57925 121.37471 130.44188 134.97548 142.82701 151.56526 160.61812 165.15172 175.89217 184.65901 196.98692 204.9529 214.04866 218.58223 223.11583 233.09831 242.16545 251.23262 255.80916 260.34271 264.87631 274.68716 283.42542 292.16367 297.76984 305.20667 310.81287 316.6908 325.44333 334.5105 339.08698 343.62057 352.24442 362.98489 369.39197"
+     style="stroke-width:1.3304534">Creación y maquetación de sitios web con HTML5, CSS , Bootstrap ,PHP.</tspan><tspan
+     id="tspan908"
+     sodipodi:role="line"
+     y="676.02277"
+     x="-141.64484 -130.63266 -126.67113 -119.23433 -110.43889 -101.38602 -92.647774 -88.114189 -79.318748 -74.785164 -70.823639 -56.893932 -47.826763 -43.865231 -35.069805 -21.140104 -12.344663 -3.2917912 2.3144252 11.109866 18.961397 22.92293 31.661165 40.714039 45.247623 54.314808 63.110249 67.643829 76.711014 85.463547 92.943253 101.73871 109.17549 113.70909 122.77626 131.5717 136.1053 145.17247 153.925 159.5312 168.26942 175.70622 180.28273 185.86031 194.65578 198.61729 207.36986 215.22139 219.18291 227.92116 236.97401 245.72655 249.68806 258.48355 265.92032 270.45395 282.82474 291.27695 300.34415 309.41132 313.37283"
+     style="stroke-width:1.3304534">Diseño e implementación de bases de datos relacionales MySql.</tspan><tspan
+     id="tspan910"
+     sodipodi:role="line"
+     y="693.89972"
+     x="-141.64484 -132.57767 -123.78222 -115.02968 -109.43778 -101.58624 -92.533363 -87.999779 -78.93261 -69.879738 -60.812557 -56.851032 -47.798153 -39.002712 -34.469135 -23.213827 -14.146649 -8.4975405 -4.5360236 9.3936796 13.355197 20.849199 29.601748 35.207951 39.169468 47.907719 56.96059 61.494175 67.071777 76.138947 85.206116 96.461426 102.03902"
+     style="stroke-width:1.3304534">Search Engine Optimization (SEO).</tspan><tspan
+     id="tspan912"
+     sodipodi:role="line"
+     y="711.77661"
+     x="-141.64484 -131.19041 -122.12325 -113.07037 -104.0175 -98.368393 -89.315521 -84.781937 -75.71476 -66.919319 -61.041378 -52.589176 -43.793736 -37.87289 -33.339314 -28.805723 -19.023466 -9.956296 -1.203748 6.6477838 15.743548 24.539003"
+     style="stroke-width:1.3304534">Ubuntu Server, Apache.</tspan></text>
+
 <text
-         id="text920"
-         style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784007,1.0021646)"
-         x="-139.25453"
-         y="619.68585"><tspan
-           id="tspan916"
-           sodipodi:role="line"
-           y="619.68585"
-           x="-139.25453 -129.25455 -119.25454 -109.25454 -99.254539 -89.254539 -79.254539"
-           style="stroke-width:1.3304534">Kiwinet</tspan><tspan
-           id="tspan918"
-           sodipodi:role="line"
-           y="635.68585"
-           x="-139.25453 -129.25455 -119.25454 -109.25454 -99.254539 -89.254539 -79.254539 -69.254547 -59.254543 -49.254543 -39.254543 -29.254538 -19.254538 -9.2545443 0.7454555 10.745456 20.745455 30.74547 40.745457 50.745457 60.745457 70.745453 80.745453 90.745453"
-           style="stroke-width:1.3304534">octubre 2017- abril 2018</tspan></text>
+   id="text920"
+   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784007,1.0021646)"
+   x="-139.25453"
+   y="619.68585"><tspan
+     id="tspan916"
+     sodipodi:role="line"
+     y="619.68585"
+     x="-139.25453 -129.25455 -119.25454 -109.25454 -99.254539 -89.254539 -79.254539"
+     style="stroke-width:1.3304534">Kiwinet</tspan><tspan
+     id="tspan918"
+     sodipodi:role="line"
+     y="635.68585"
+     x="-139.25453 -129.25455 -119.25454 -109.25454 -99.254539 -89.254539 -79.254539 -69.254547 -59.254543 -49.254543 -39.254543 -29.254538 -19.254538 -9.2545443 0.7454555 10.745456 20.745455 30.74547 40.745457 50.745457 60.745457 70.745453 80.745453 90.745453"
+     style="stroke-width:1.3304534">octubre 2017- abril 2018</tspan></text>
+
 </g><g
        id="g689"
        transform="translate(152,-264)"><text
-         id="text924"
-         style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-140.77509"
-         y="750.03241"><tspan
-           id="tspan922"
-           sodipodi:role="line"
-           y="750.03241"
-           x="-140.77509 -123.52982 -109.33883 -94.379082 -78.318123 -62.319508 -46.320889 -28.660074 -15.424838 -2.1896007 13.871327 31.116598 48.715076 64.713707 71.944252 86.135246 102.13386 119.79467 137.1646 151.33479 158.56535 172.75633 190.12627 207.37154 214.60207 222.33131"
-           style="stroke-width:1.3304534">DESARROLLADOR FRONT END JR</tspan></text>
+   id="text924"
+   style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-140.77509"
+   y="750.03241"><tspan
+     id="tspan922"
+     sodipodi:role="line"
+     y="750.03241"
+     x="-140.77509 -123.52982 -109.33883 -94.379082 -78.318123 -62.319508 -46.320889 -28.660074 -15.424838 -2.1896007 13.871327 31.116598 48.715076 64.713707 71.944252 86.135246 102.13386 119.79467 137.1646 151.33479 158.56535 172.75633 190.12627 207.37154 214.60207 222.33131"
+     style="stroke-width:1.3304534">DESARROLLADOR FRONT END JR</tspan></text>
+
 <text
-         id="text938"
-         style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-142.91454"
-         y="809.80884"><tspan
-           id="tspan926"
-           sodipodi:role="line"
-           y="809.80884"
-           x="-142.91454 -131.90234 -123.1069 -115.6701 -106.91756 -101.26846 -95.690857 -86.952621 -82.991096 -79.029564 -70.291328 -65.486008 -61.281368 -47.351665 -38.284489 -34.322971 -25.527521 -11.597835 -2.8023784 6.2504935 11.856694 20.609228 28.503683 32.465199 41.203449 50.256321 54.789906 63.85709 72.652519 77.186104 84.622917 88.584435 94.190636 98.152153 106.8904 114.3272 118.8608 130.54512 139.34059 148.40776 152.94136 160.83577 169.57402 178.62691 183.16048 193.90096 202.62486 214.9528 222.91875 232.01454 236.59102 241.12462 251.10707 260.17429 269.24146 273.77502 278.30862 282.8851 292.69598 301.43423 310.17242 315.77866 323.21545 328.82166 334.69958 343.45212 352.51929 357.05289 366.14868 370.72516 375.25873 383.88257 394.62305 401.03015 405.56372"
-           style="stroke-width:1.3304534">Desarrollo/Implementación de sitios web con HTML5, CSS , Bootstrap 4 ,PHP..</tspan><tspan
-           id="tspan928"
-           sodipodi:role="line"
-           y="827.68573"
-           x="-142.91454 -132.46011 -125.02331 -116.28507 -111.75149 -104.52921 -98.651276 -89.898735 -75.96904 -67.173592 -55.489239 -46.751003 -40.830166 -32.54958 -28.015993 -20.050028 -11.297496 -5.4195657 3.37589 11.828084 20.623526 24.585058"
-           style="stroke-width:1.3304534">Uso Framework Laravel.</tspan><tspan
-           id="tspan930"
-           sodipodi:role="line"
-           y="845.56268"
-           x="-142.91454 -134.53383 -128.95624 -120.21799 -111.15082 -105.27289 -96.520348 -82.590652 -73.838112 -65.943665 -61.982143 -53.2439 -44.191021 -39.657444 -35.452785 -26.700251 -18.248041 -9.4954786 -2.0587108 7.0084891 14.902928 20.780859 24.742376 33.809559 39.415745"
-           style="stroke-width:1.3304534">Programación JavasScript.</tspan><tspan
-           id="tspan932"
-           sodipodi:role="line"
-           y="863.43958"
-           x="-142.91454 -135.20601 -126.41056 -117.35769 -108.29051 -99.23764 -90.4851 -86.523575 -77.728127 -70.291328 -65.714836 -57.74889 -48.724621 -39.657444 -30.590258 -26.056681 -17.604471 -13.070888 -3.7033794 6.0788779 15.146047 24.213202"
-           style="stroke-width:1.3304534">Lenguajes LESS y SASS.</tspan><tspan
-           id="tspan934"
-           sodipodi:role="line"
-           y="881.31653"
-           x="-142.91454 -132.46011 -123.39294 -114.34007 -105.28719 -99.638077 -90.585213 -86.05162 -76.984444 -68.189003 -62.311077 -53.858868 -45.063427 -39.142582 -34.609005 -30.075411 -20.293154 -11.225978 -2.4734294 5.3781028 14.473866 23.269323 32.365101 36.89867 41.432255 49.841572 55.419178 64.214607 73.281807 78.873695 87.611931 95.048729 99.582314 104.11591 113.89816 122.96532 127.49892 137.4814 146.21962 155.28679 164.08223 168.61583 173.14943 183.17479 187.13631 191.09782 199.89326 208.94615 214.55238 223.34779 230.78462 235.31816 243.32704 252.05101 260.67484 265.2084 269.742 278.80917 287.87634 298.61679 303.15039 307.7269 317.0658 326.84805 339.17599 348.98682 358.76907 363.30267 367.83624 376.90338 387.64386 396.66815 404.63409 412.60004 417.13367 426.20081 434.05237 439.97321 443.93475 453.00189 458.60809 462.56958 471.6225 480.68964"
-           style="stroke-width:1.3304534">Ubuntu Server, Apache2, Prepros, VS Code, Clientes FTP, SSH, SAMBA, SHELL Scripting.</tspan><tspan
-           id="tspan936"
-           sodipodi:role="line"
-           y="899.19342"
-           x="-142.91454 -136.27863 -130.4007 -121.64815 -112.58097 -103.82843 -99.866913 -91.12867 -86.595078 -78.743538 -70.005295 -60.909527 -56.375935 -45.306553 -41.101894 -34.06554"
-           style="stroke-width:1.3304534">Trabajo con GIT.</tspan></text>
+   id="text938"
+   style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-142.91454"
+   y="809.80884"><tspan
+     id="tspan926"
+     sodipodi:role="line"
+     y="809.80884"
+     x="-142.91454 -131.90234 -123.1069 -115.6701 -106.91756 -101.26846 -95.690857 -86.952621 -82.991096 -79.029564 -70.291328 -65.486008 -61.281368 -47.351665 -38.284489 -34.322971 -25.527521 -11.597835 -2.8023784 6.2504935 11.856694 20.609228 28.503683 32.465199 41.203449 50.256321 54.789906 63.85709 72.652519 77.186104 84.622917 88.584435 94.190636 98.152153 106.8904 114.3272 118.8608 130.54512 139.34059 148.40776 152.94136 160.83577 169.57402 178.62691 183.16048 193.90096 202.62486 214.9528 222.91875 232.01454 236.59102 241.12462 251.10707 260.17429 269.24146 273.77502 278.30862 282.8851 292.69598 301.43423 310.17242 315.77866 323.21545 328.82166 334.69958 343.45212 352.51929 357.05289 366.14868 370.72516 375.25873 383.88257 394.62305 401.03015 405.56372"
+     style="stroke-width:1.3304534">Desarrollo/Implementación de sitios web con HTML5, CSS , Bootstrap 4 ,PHP..</tspan><tspan
+     id="tspan928"
+     sodipodi:role="line"
+     y="827.68573"
+     x="-142.91454 -132.46011 -125.02331 -116.28507 -111.75149 -104.52921 -98.651276 -89.898735 -75.96904 -67.173592 -55.489239 -46.751003 -40.830166 -32.54958 -28.015993 -20.050028 -11.297496 -5.4195657 3.37589 11.828084 20.623526 24.585058"
+     style="stroke-width:1.3304534">Uso Framework Laravel.</tspan><tspan
+     id="tspan930"
+     sodipodi:role="line"
+     y="845.56268"
+     x="-142.91454 -134.53383 -128.95624 -120.21799 -111.15082 -105.27289 -96.520348 -82.590652 -73.838112 -65.943665 -61.982143 -53.2439 -44.191021 -39.657444 -35.452785 -26.700251 -18.248041 -9.4954786 -2.0587108 7.0084891 14.902928 20.780859 24.742376 33.809559 39.415745"
+     style="stroke-width:1.3304534">Programación JavasScript.</tspan><tspan
+     id="tspan932"
+     sodipodi:role="line"
+     y="863.43958"
+     x="-142.91454 -135.20601 -126.41056 -117.35769 -108.29051 -99.23764 -90.4851 -86.523575 -77.728127 -70.291328 -65.714836 -57.74889 -48.724621 -39.657444 -30.590258 -26.056681 -17.604471 -13.070888 -3.7033794 6.0788779 15.146047 24.213202"
+     style="stroke-width:1.3304534">Lenguajes LESS y SASS.</tspan><tspan
+     id="tspan934"
+     sodipodi:role="line"
+     y="881.31653"
+     x="-142.91454 -132.46011 -123.39294 -114.34007 -105.28719 -99.638077 -90.585213 -86.05162 -76.984444 -68.189003 -62.311077 -53.858868 -45.063427 -39.142582 -34.609005 -30.075411 -20.293154 -11.225978 -2.4734294 5.3781028 14.473866 23.269323 32.365101 36.89867 41.432255 49.841572 55.419178 64.214607 73.281807 78.873695 87.611931 95.048729 99.582314 104.11591 113.89816 122.96532 127.49892 137.4814 146.21962 155.28679 164.08223 168.61583 173.14943 183.17479 187.13631 191.09782 199.89326 208.94615 214.55238 223.34779 230.78462 235.31816 243.32704 252.05101 260.67484 265.2084 269.742 278.80917 287.87634 298.61679 303.15039 307.7269 317.0658 326.84805 339.17599 348.98682 358.76907 363.30267 367.83624 376.90338 387.64386 396.66815 404.63409 412.60004 417.13367 426.20081 434.05237 439.97321 443.93475 453.00189 458.60809 462.56958 471.6225 480.68964"
+     style="stroke-width:1.3304534">Ubuntu Server, Apache2, Prepros, VS Code, Clientes FTP, SSH, SAMBA, SHELL Scripting.</tspan><tspan
+     id="tspan936"
+     sodipodi:role="line"
+     y="899.19342"
+     x="-142.91454 -136.27863 -130.4007 -121.64815 -112.58097 -103.82843 -99.866913 -91.12867 -86.595078 -78.743538 -70.005295 -60.909527 -56.375935 -45.306553 -41.101894 -34.06554"
+     style="stroke-width:1.3304534">Trabajo con GIT.</tspan></text>
+
 <text
-         id="text944"
-         style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-         transform="scale(0.99784008,1.0021646)"
-         x="-140.52425"
-         y="771.34888"><tspan
-           id="tspan940"
-           sodipodi:role="line"
-           y="771.34888"
-           x="-140.52425 -130.52425 -120.52425 -110.52424 -100.52425 -90.524239 -80.524239 -70.524246 -60.524242 -50.524242 -40.524242"
-           style="stroke-width:1.3304534">Web de Cero</tspan><tspan
-           id="tspan942"
-           sodipodi:role="line"
-           y="787.34888"
-           x="-140.52425 -130.52425 -120.52425 -110.52424 -100.52425 -90.524239 -80.524239 -70.524246 -60.524242 -50.524242 -40.524242 -30.52424 -20.52424 -10.524241 -0.52424115 9.4757586 19.47576 29.475775 39.475758 49.475758 59.475758 69.475761"
-           style="stroke-width:1.3304534">enero 2019- junio 2019</tspan></text>
+   id="text944"
+   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   transform="scale(0.99784008,1.0021646)"
+   x="-140.52425"
+   y="771.34888"><tspan
+     id="tspan940"
+     sodipodi:role="line"
+     y="771.34888"
+     x="-140.52425 -130.52425 -120.52425 -110.52424 -100.52425 -90.524239 -80.524239 -70.524246 -60.524242 -50.524242 -40.524242"
+     style="stroke-width:1.3304534">Web de Cero</tspan><tspan
+     id="tspan942"
+     sodipodi:role="line"
+     y="787.34888"
+     x="-140.52425 -130.52425 -120.52425 -110.52424 -100.52425 -90.524239 -80.524239 -70.524246 -60.524242 -50.524242 -40.524242 -30.52424 -20.52424 -10.524241 -0.52424115 9.4757586 19.47576 29.475775 39.475758 49.475758 59.475758 69.475761"
+     style="stroke-width:1.3304534">enero 2019- junio 2019</tspan></text>
+
 </g></g></svg>
