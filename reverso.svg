@@ -2,14 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    xml:space="preserve"
@@ -17,10 +9,18 @@
    height="1085.4851"
    viewBox="0 0 962.62408 1085.4851"
    sodipodi:docname="reverso.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath20"><path
@@ -602,19 +602,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="800"
-     inkscape:window-height="551"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="289.32171"
-     inkscape:cy="1108.9407"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:cx="289.91378"
+     inkscape:cy="429.21382"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      showguides="true"
-     inkscape:guide-bbox="true"><sodipodi:guide
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><sodipodi:guide
        position="8,811.99999"
        orientation="1,0"
        id="guide703"
@@ -1184,9 +1187,9 @@
    y="265.53101"><tspan
      id="tspan952"
      sodipodi:role="line"
-     style="stroke-width:1.3304534"
      x="-608.83875"
-     y="278.18451" /></text>
+     y="278.18451"
+     style="stroke-width:1.3304534" /></text>
 
 
 
@@ -1292,144 +1295,6 @@
 
 
 </g><g
-       id="g675"
-       transform="translate(150,406)"><text
-   id="text880"
-   style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-   transform="scale(0.99784008,1.0021646)"
-   x="-139.95549"
-   y="413.40839"><tspan
-     id="tspan878"
-     sodipodi:role="line"
-     y="413.40839"
-     x="-139.95549 -122.918 -108.72701 -92.728394 -78.537407 -61.167477 -46.997265 -32.806286 -25.575739 -8.3304701 5.8605247 13.091069 28.050802 35.780018 50.739765 64.909981 79.10096 99.836845 115.89779"
-     style="stroke-width:1.3304534">GERENTE DE SISTEMAS</tspan></text>
-
-
-
-<text
-   id="text894"
-   style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-   transform="scale(0.99784007,1.0021646)"
-   x="-142.09496"
-   y="473.18488"><tspan
-     id="tspan882"
-     sodipodi:role="line"
-     y="473.18488"
-     x="-142.09496 -129.76703 -121.01449 -111.96162 -106.35542 -97.559975 -88.464195 -84.50267 -70.572975 -66.61145 -57.815998 -48.763126 -43.156925 -34.41869 -29.885107 -21.432898 -16.899313 -8.1038485 0.99191546 8.4287138 17.181261 31.110949 40.17812 44.139652 52.935093 57.468678 66.535858 75.331284 79.864868 88.660324 97.727493 106.82327 110.78479 119.85197 128.59019 136.02702 140.56059 149.62779 162.97112 170.82265 179.5609 193.49059 202.55775 211.61064 217.25975 225.998 231.57555 239.54152 248.29408 257.36127 262.96747 271.70572 280.77286 285.30646 293.75867 298.29224 309.30444 318.09985 325.53668 333.81726 339.42346 348.16171 357.22888"
-     style="stroke-width:1.3304534">Mantenimiento y ensamble de equipos decómputo(Laptop y Desktop,</tspan><tspan
-     id="tspan884"
-     sodipodi:role="line"
-     y="491.0618"
-     x="-142.09496 -137.8903 -123.9606 -114.89343 -109.30153 -100.50609 -93.06929 -84.331047 -78.453117 -69.700584 -62.263783 -56.686184"
-     style="stroke-width:1.3304534">Impresoras).</tspan><tspan
-     id="tspan886"
-     sodipodi:role="line"
-     y="508.93872"
-     x="-142.09496 -132.11249 -126.52058 -117.72514 -108.9726 -101.12106 -97.159531 -88.421288 -79.368416 -74.834831 -65.767654 -56.97221 -52.395718 -43.328548 -34.576 -25.508841 -21.547308 -12.494443 -3.741895 3.6949031 8.2285032 19.955751 28.751192 37.818378 42.351963 51.419132 60.214573 64.748154 68.709671 77.462219 81.995819 90.791245 104.72096 113.78813 119.39433 128.18977 135.62657 144.3791 149.95671 159.98207 169.04927 178.11644 182.65001 193.39046 202.11443 214.44231 222.40831 231.50404 236.03764 248.36559 256.81781 265.88498 277.14026 285.10623 289.63983 298.30658 309.047 317.67084 323.24844 327.78204"
-     style="stroke-width:1.3304534">Creación de páginas web de la empresa(CSS,HTML5,MySQL,PHP).</tspan><tspan
-     id="tspan888"
-     sodipodi:role="line"
-     y="526.81561"
-     x="-142.09496 -132.79895 -124.00351 -114.93633 -106.14089 -98.704094 -94.170509 -85.875618 -76.093369 -65.395821"
-     style="stroke-width:1.3304534">Redes LAN.</tspan><tspan
-     id="tspan890"
-     sodipodi:role="line"
-     y="544.69257"
-     x="-142.09496 -132.2841 -123.53156 -116.09476 -107.29932 -99.862518 -95.328934 -86.261757 -77.466316 -72.932732 -63.865551 -55.11301 -49.463902 -40.725666 -33.288876 -27.711264 -15.383344 -6.9311347 2.1360195 11.203219 15.164737 20.742327"
-     style="stroke-width:1.3304534">Bases de datos(MySql).</tspan><tspan
-     id="tspan892"
-     sodipodi:role="line"
-     y="562.56946"
-     x="-142.09496 -132.11249 -123.37424 -114.32137 -109.28723 -105.32571 -96.25853 -87.205658 -81.327728 -72.532288 -64.68074 -60.719212 -51.980976 -42.928089 -38.39452 -29.942305 -25.408728 -16.312941 -8.8761568 -0.13790633 4.395678 13.462848 22.258303 26.791887 34.228672 42.966923 47.757938 53.36414 65.048492 73.801025 79.407227 88.202682 92.736267 101.53171 110.58459 115.11818 124.18535 132.98079 142.07655 150.87202 156.74992 165.50249 169.464"
-     style="stroke-width:1.3304534">Configuración y uso de software en general.</tspan></text>
-
-
-
-<text
-   id="text900"
-   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-   transform="scale(0.99784007,1.0021646)"
-   x="-139.70465"
-   y="434.72485"><tspan
-     id="tspan896"
-     sodipodi:role="line"
-     y="434.72485"
-     x="-139.70465 -129.70465 -119.70465 -109.70465 -99.704651 -89.704651 -79.704651 -69.704659 -59.704655 -49.704655 -39.704655 -29.704657 -19.704641 -9.704648 0.29533648 10.295352 20.295336 30.295351 40.295338 50.295338 60.295353 70.295349 80.295349 90.295349 100.29535"
-     style="stroke-width:1.3304534">Víctor Montes y Asociados</tspan><tspan
-     id="tspan898"
-     sodipodi:role="line"
-     y="450.72485"
-     x="-139.70465 -129.70465 -119.70465 -109.70465 -99.704651 -89.704651 -79.704651 -69.704659 -59.704655 -49.704655 -39.704655 -29.704657 -19.704641 -9.704648 0.29533648 10.295352 20.295336 30.295351 40.295338 50.295338 60.295353 70.295349 80.295349 90.295349 100.29535"
-     style="stroke-width:1.3304534">octubre 2015- agosto 2016</tspan></text>
-
-
-
-</g><g
-       id="g701"
-       transform="translate(150,74)"><text
-   id="text904"
-   style="font-variant:normal;font-weight:bold;font-size:20.77743149px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans-Bold;writing-mode:lr-tb;fill:#0cbdb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-   transform="scale(0.99784008,1.0021646)"
-   x="-139.50539"
-   y="598.36938"><tspan
-     id="tspan902"
-     sodipodi:role="line"
-     y="598.36938"
-     x="-139.50539 -122.26011 -108.06912 -93.109375 -77.048416 -61.049801 -45.051182 -27.390368 -14.155147 -0.91990155 15.141026 32.386295 49.984776 65.983421 73.213966 87.404945 103.40356 121.06438 138.43431 152.60451 159.83507 174.02605 191.39598 208.64125 215.87178 223.601"
-     style="stroke-width:1.3304534">DESARROLLADOR FRONT END JR</tspan></text>
-
-
-
-<text
-   id="text914"
-   style="font-variant:normal;font-weight:normal;font-size:14.30153561px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-   transform="scale(0.99784007,1.0021646)"
-   x="-141.64484"
-   y="658.14587"><tspan
-     id="tspan906"
-     sodipodi:role="line"
-     y="658.14587"
-     x="-141.64484 -131.66237 -126.07047 -117.27502 -108.52248 -100.67094 -96.709412 -87.971176 -78.918304 -74.38472 -65.93251 -61.356014 -47.426319 -38.673779 -29.606611 -20.553747 -11.758298 -6.1520972 2.6433589 10.494906 14.456424 23.194658 32.247532 36.781132 45.848301 54.643757 59.177326 66.614136 70.575653 76.181839 80.143372 88.881607 96.318405 100.85199 112.57925 121.37471 130.44188 134.97548 142.82701 151.56526 160.61812 165.15172 175.89217 184.65901 196.98692 204.9529 214.04866 218.58223 223.11583 233.09831 242.16545 251.23262 255.80916 260.34271 264.87631 274.68716 283.42542 292.16367 297.76984 305.20667 310.81287 316.6908 325.44333 334.5105 339.08698 343.62057 352.24442 362.98489 369.39197"
-     style="stroke-width:1.3304534">Creación y maquetación de sitios web con HTML5, CSS , Bootstrap ,PHP.</tspan><tspan
-     id="tspan908"
-     sodipodi:role="line"
-     y="676.02277"
-     x="-141.64484 -130.63266 -126.67113 -119.23433 -110.43889 -101.38602 -92.647774 -88.114189 -79.318748 -74.785164 -70.823639 -56.893932 -47.826763 -43.865231 -35.069805 -21.140104 -12.344663 -3.2917912 2.3144252 11.109866 18.961397 22.92293 31.661165 40.714039 45.247623 54.314808 63.110249 67.643829 76.711014 85.463547 92.943253 101.73871 109.17549 113.70909 122.77626 131.5717 136.1053 145.17247 153.925 159.5312 168.26942 175.70622 180.28273 185.86031 194.65578 198.61729 207.36986 215.22139 219.18291 227.92116 236.97401 245.72655 249.68806 258.48355 265.92032 270.45395 282.82474 291.27695 300.34415 309.41132 313.37283"
-     style="stroke-width:1.3304534">Diseño e implementación de bases de datos relacionales MySql.</tspan><tspan
-     id="tspan910"
-     sodipodi:role="line"
-     y="693.89972"
-     x="-141.64484 -132.57767 -123.78222 -115.02968 -109.43778 -101.58624 -92.533363 -87.999779 -78.93261 -69.879738 -60.812557 -56.851032 -47.798153 -39.002712 -34.469135 -23.213827 -14.146649 -8.4975405 -4.5360236 9.3936796 13.355197 20.849199 29.601748 35.207951 39.169468 47.907719 56.96059 61.494175 67.071777 76.138947 85.206116 96.461426 102.03902"
-     style="stroke-width:1.3304534">Search Engine Optimization (SEO).</tspan><tspan
-     id="tspan912"
-     sodipodi:role="line"
-     y="711.77661"
-     x="-141.64484 -131.19041 -122.12325 -113.07037 -104.0175 -98.368393 -89.315521 -84.781937 -75.71476 -66.919319 -61.041378 -52.589176 -43.793736 -37.87289 -33.339314 -28.805723 -19.023466 -9.956296 -1.203748 6.6477838 15.743548 24.539003"
-     style="stroke-width:1.3304534">Ubuntu Server, Apache.</tspan></text>
-
-
-
-<text
-   id="text920"
-   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
-   transform="scale(0.99784007,1.0021646)"
-   x="-139.25453"
-   y="619.68585"><tspan
-     id="tspan916"
-     sodipodi:role="line"
-     y="619.68585"
-     x="-139.25453 -129.25455 -119.25454 -109.25454 -99.254539 -89.254539 -79.254539"
-     style="stroke-width:1.3304534">Kiwinet</tspan><tspan
-     id="tspan918"
-     sodipodi:role="line"
-     y="635.68585"
-     x="-139.25453 -129.25455 -119.25454 -109.25454 -99.254539 -89.254539 -79.254539 -69.254547 -59.254543 -49.254543 -39.254543 -29.254538 -19.254538 -9.2545443 0.7454555 10.745456 20.745455 30.74547 40.745457 50.745457 60.745457 70.745453 80.745453 90.745453"
-     style="stroke-width:1.3304534">octubre 2017- abril 2018</tspan></text>
-
-
-
-</g><g
        id="g689"
        transform="translate(152,-264)"><text
    id="text924"
@@ -1486,20 +1351,20 @@
 
 <text
    id="text944"
-   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3304534"
+   style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Ubuntu Mono';-inkscape-font-specification:UbuntuMono-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33045"
    transform="scale(0.99784008,1.0021646)"
    x="-140.52425"
    y="771.34888"><tspan
      id="tspan940"
      sodipodi:role="line"
      y="771.34888"
-     x="-140.52425 -130.52425 -120.52425 -110.52424 -100.52425 -90.524239 -80.524239 -70.524246 -60.524242 -50.524242 -40.524242"
-     style="stroke-width:1.3304534">Web de Cero</tspan><tspan
+     x="-140.52425"
+     style="stroke-width:1.33045">Web de Cero</tspan><tspan
      id="tspan942"
      sodipodi:role="line"
      y="787.34888"
      x="-140.52425 -130.52425 -120.52425 -110.52424 -100.52425 -90.524239 -80.524239 -70.524246 -60.524242 -50.524242 -40.524242 -30.52424 -20.52424 -10.524241 -0.52424115 9.4757586 19.47576 29.475775 39.475758 49.475758 59.475758 69.475761"
-     style="stroke-width:1.3304534">enero 2019- junio 2019</tspan></text>
+     style="stroke-width:1.33045">enero 2019- junio 2019</tspan></text>
 
 
 
