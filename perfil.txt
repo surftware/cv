@@ -1,33 +1,58 @@
+Excelente comprensión y lógica de programación, paradigma estructurado y paradigma orientado a objetos.
+Comprensión básica programación reactiva con vue.
+Comprensión básica del framework Flask de Python y el motor de plantillas Jinja2.
+Comprensión paradigma orientado a eventos de javaScript.
+
 Desarrollo Web Front End con HTML5, CSS3, LESS/SASS, BootStrap, javaScript
-Desarrollo Back End intemedio-básico con PHP, Java
+Desarrollo Back End intemedio con PHP, y Python.
+Desarrollo Back End Java básico.
 
-Diseño, e implementación de bases de datos con MySQL, nivel intermedio-avanzado.
+Diseño, e implementación de bases de datos con MySQL(MariaDB), nivel intermedio-avanzado.
 
-Experiencia con otros lenguajes de programación tales como Python, Lenguaje C. 
+Experiencia con otros lenguajes de programación tales como Pascal, Lenguaje C. 
 
 Experiencia con CMS tales como Hybris-SAP, Wordpress, Go-Daddy.
 
-Experiencia con Laravel.
+Experiencia básica con framework Laravel, el motor de plantillas Blade y ORM Eloquent.
+Conocimiento avanzado en el uso de Linux y la consola de comandos.
 
-Conocimiento en administración y dirección de equipos
+Experiencia en administración y dirección de equipos
 de trabajo.
 Experiencia en ventas y marketing.
 Facilidad de palabra y comunicación. 
 Poseo excelente presentación, proactivad y asertividad.
 Experiencia en servicio y soporte técnico a usuarios finales.
+Fácil adaptación al cambio.
+Sociable y empático con mi equipo de trabajo.
+
 
 Idiomas
 
-.
-Nivel B2: Usuario independiente
+.Inglés Nivel B2: Usuario independiente
 avanzado.
 (Según el “Marco común europeo
 de referencia para las lenguas“).
 
-
-Nivel A1: Usuario principiante.
+.Fancés Nivel A1: Usuario principiante.
 (Según el “Marco común europeode referencia para las lenguas“).
 
+Web Developer dpstreet.mx Retail Digital
+Líder: Armando Velázquez Cerón
 
+Actividades:
+Mantenimiento front end del sitio dpstreet.mx
+Manejo del CMS, HCL Comerce.
+Creación de landing pages, configuración de promociones con base en los criterios
+tomados por la Dirección Comercial de dpstreet Retail Digital.
 
-SOPORTE INFORMATICO MUNICIPAL CENSO 2020
+Uno de mis logros e innovacoines en el puesto es que con ayuda del lenguaje de programación Python y Shell Scripting, desarrollé programas que facilitaran mi quehacer diario con el 
+desarrollo Web.Dichos programas son la semiautomatización de bloques de código HTML5 repetitivos; incluyendo
+tareas como la clasificación de imágenes para subir al sitio, su optimización con la API Tinypng y el uso de librerías específicas del 
+lenguaje(os,) necesarias para lograr dicha semiautomatización de tareas.
+
+Me apoyé del SASS Preprocesor para optimizar los estilos del sitio.
+
+Conocimiento sólido en versionamiento con Git.
+
+Conocimiento en el funcionamiento de Retail Digital dportenis.
+Graduado del Diplomado Oficial Profesional.
