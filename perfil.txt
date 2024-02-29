@@ -1,19 +1,14 @@
 Excelente comprensión y lógica de programación, paradigma estructurado y paradigma orientado a objetos.
 Comprensión básica programación reactiva con vue.
-Comprensión básica del framework Flask de Python y el motor de plantillas Jinja2.
 Comprensión paradigma orientado a eventos de javaScript.
-
-Desarrollo Web Front End con HTML5, CSS3, LESS/SASS, BootStrap, javaScript
+Desarrollo Web Front End con HTML5, CSS3, LESS/SASS, BootStrap, javaScript.
 Desarrollo Back End intemedio con PHP, y Python.
 Desarrollo Back End Java básico.
-
-Diseño, e implementación de bases de datos con MySQL(MariaDB), nivel intermedio-avanzado.
-
-Experiencia con otros lenguajes de programación tales como Pascal, Lenguaje C. 
-
-Experiencia con CMS tales como Hybris-SAP, Wordpress, Go-Daddy.
-
+Experiencia con otros lenguajes de programación tales como Pascal, Lenguaje C, Shell Scripting. 
 Experiencia básica con framework Laravel, el motor de plantillas Blade y ORM Eloquent.
+Comprensión básica del framework Flask de Python y el motor de plantillas Jinja2.
+Diseño, e implementación de bases de datos con MySQL(MariaDB), nivel intermedio-avanzado.
+Experiencia con CMS tales como HCL Commerce, Hybris SAP, Wordpress, Go-Daddy.
 Conocimiento avanzado en el uso de Linux y la consola de comandos.
 
 Experiencia en administración y dirección de equipos
@@ -41,14 +36,15 @@ Líder: Armando Velázquez Cerón
 
 Actividades:
 Mantenimiento front end del sitio dpstreet.mx
-Manejo del CMS, HCL Comerce.
+Manejo del CMS, HCL Commerce.
 Creación de landing pages, configuración de promociones con base en los criterios
 tomados por la Dirección Comercial de dpstreet Retail Digital.
 
-Uno de mis logros e innovacoines en el puesto es que con ayuda del lenguaje de programación Python y Shell Scripting, desarrollé programas que facilitaran mi quehacer diario con el 
-desarrollo Web.Dichos programas son la semiautomatización de bloques de código HTML5 repetitivos; incluyendo
-tareas como la clasificación de imágenes para subir al sitio, su optimización con la API Tinypng y el uso de librerías específicas del 
-lenguaje(os,) necesarias para lograr dicha semiautomatización de tareas.
+Uno de mis logros e innovaciones en el puesto es que con ayuda del lenguaje de programación Python y Shell Scripting, 
+desarrollé programas que facilitaran mi quehacer diario con el desarrollo Web.Dichos programas son la semiautomatización 
+de bloques de código HTML5 repetitivos; incluyendo tareas como la clasificación de imágenes para subir al sitio, 
+su optimización con la API Tinypng y el uso de librerías específicas del lenguaje necesarias para lograr dicha 
+semiautomatización de tareas.
 
 Me apoyé del SASS Preprocesor para optimizar los estilos del sitio.
 
